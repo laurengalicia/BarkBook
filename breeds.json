@@ -1,0 +1,1990 @@
+{
+  "Affenpinscher":{
+    "Description":"Loyal, curious, and famously amusing, this almost-human toy dog is fearless out of all proportion to his size. As with all great comedians, it's the Affenpinscher's apparent seriousness of purpose that makes his antics all the more amusing. The Affen's apish look has been described many ways.",
+    "Characteristics":"confident / famously funny / fearless",
+    "Height":"9-11.5 inches",
+    "Weight":"7-10 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28171527/Affenpinscher-running-outdoors-400x267.jpg"
+  },
+  "Afghan Hound":{
+    "Description":"Among the most eye-catching of all dog breeds, the Afghan Hound is an aloof and dignified aristocrat of sublime beauty. Despite his regal appearance, the Afghan can exhibit an endearing streak of silliness and a profound loyalty. Since ancient times, Afghan Hounds have been famous for their elegant beauty.",
+    "Characteristics":"independent / sweet",
+    "Height":"25-27 inches",
+    "Weight":"50-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02151216/Afghan-Hound-standing-in-a-garden.jpg"
+  },
+  "Airedale Terrier":{
+    "Description":"His size, strength, and unflagging spirit have earned the Airedale Terrier the nickname 'The King of Terriers.' The Airedale stands among the world's most versatile dog breeds and has distinguished himself as hunter, athlete, and companion. The Airedale Terrier is the largest of all terrier breeds. Males stand about 23 inches at the shoulder, females a little less.",
+    "Characteristics":"friendly / courageous / clever",
+    "Height":"23 inches",
+    "Weight":"50-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02165956/Airedale-Terrier-standing-stacked-outdoors.jpg"
+  },
+  "Akita":{
+    "Description":"The Akita is a muscular, double-coated dog of ancient Japanese lineage famous for their dignity, courage, and loyalty. In their native land, they're venerated as family protectors and symbols of good health, happiness, and long life. Akitas are burly, heavy-boned spitz-type dogs of imposing stature.",
+    "Characteristics":"dignified / courageous / profoundly loyal",
+    "Height":"26-28 inches (male)/24-26 inches (female)",
+    "Weight":"100-130 pounds (male)/70-100 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06154034/Akita-standing-outdoors-in-the-summer.jpg"
+  },
+  "Alaskan Klee Kai":{
+    "Description":"The Alaskan Klee Kai is a small-sized companion dog that is alert, energetic, and curious, yet reserved with unfamiliar people and situations. They come in three different sizes. The Alaskan Klee Kai is a small sized companion dog with a smooth, agile, and well-balanced gait, a body that is well proportioned in three size varieties:",
+    "Characteristics":"loyal / intelligent / vigilant",
+    "Height":"13 inches and under (Toy)/13-15 inches (Miniature)/15-17.5 inches (Standard)",
+    "Weight":"6-12 pounds(Toy)/10-18 pounds(Miniature)/16-25 pounds(Standard)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/01/18151501/Alaskan-Klee-Kai-standing-in-the-snow-attached-to-a-harness1.jpg"
+  },
+  "Alaskan Malamute":{
+    "Description":"An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog:",
+    "Characteristics":"loyal / playful / affectionate",
+    "Height":"25 inches (male)/23 inches (female)",
+    "Weight":"85 pounds (male)/75 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09151144/Alaskan-Malamute-standing-in-the-grass1.jpg"
+  },
+  "American Bulldog":{
+    "Description":"American Bulldogs are a well-balanced athletic dog that demonstrate great strength, endurance, agility, and a friendly attitude. Historically, they were bred to be a utility dog used for working the farm. The American Bulldog is a descendant of the English Bulldog.",
+    "Characteristics":"loyal / self-confident",
+    "Height":"22-25 inches (males) / 20-23 inches (females)",
+    "Weight":"75-100 pounds (males)/ 60-80 pounds (females)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/01/14144341/American-Bulldog-standing-in-three-quarter-view-400x267.jpg"
+  },
+  "American English Coonhound":{
+    "Description":"These sleek and racy, lean but muscular hounds work dusk to dawn in pursuit of the wily raccoon. The sight of the American English Coonhound tearing through the moonlit woods, all sinew and determination, bawling their lusty night music, is coon-hunter heaven. Standing as high as 26 inches at the shoulder, American English Coonhounds are deep-chested, sweet-faced athletes beloved by sportsmen for their speed and endurance.",
+    "Characteristics":"sociable / sweet / mellow",
+    "Height":"24-26 inches (male)/23-25 inches (female)",
+    "Weight":"45-65 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12133501/American-English-Coonhound-howling-in-a-field1.jpg"
+  },
+  "American Eskimo Dog":{
+    "Description":"The American Eskimo Dog combines striking good looks with a quick and clever mind in a total brains-and-beauty package. Neither shy nor aggressive, Eskies are always alert and friendly, though a bit conservative when making new friends. The American Eskimo Dog comes in three sizes'standard, miniature, and toy'standing as tall as 19 inches at the shoulder or as short as 9 inches.",
+    "Characteristics":"loyal / versatile / smart",
+    "Height":"9-12 inches (toy)/12-15 inches (miniature)/15-19 inches (Standard)",
+    "Weight":"6-10 pounds (toy)/10-20 pounds (miniature)/25-35 pounds (standard)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12153852/American-Eskimo-Dog-standing-in-the-grass-in-bright-sunlight.jpg"
+  },
+  "American Foxhound":{
+    "Description":"American Foxhounds are good-natured, low-maintenance hounds who get on well with kids, dogs, even cats, but come with special considerations for prospective owners. They are closely associated with Revolutionary heroes and the rolling estates of old Virginia. American Foxhounds are sleek, rangy hunters known for their speed, endurance, and work ethic.",
+    "Characteristics":"independent / easy-going / sweet-tempered",
+    "Height":"22-25 inches (male)/21-24 inches (female)",
+    "Weight":"65-70 pounds (male)/60-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/05/21144718/american-foxhound-pair-looking-up-400x267.jpg"
+  },
+  "American Hairless Terrier":{
+    "Description":"The American Hairless Terrier, a Louisiana native, is a smart, inquisitive, and playful dog that comes in hairless and coated varieties. He is a fine choice for allergy sufferers who want a dog with true terrier grit and courage. The American Hairless Terrier stands between 12 to 16 inches at the shoulder, and comes in both coated and hairless varieties.",
+    "Characteristics":"alert / curious / energetic",
+    "Height":"12-16 inches",
+    "Weight":"12-16 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18232608/American-Hairless-Terrier-standing-in-the-grass-on-lead-400x267.jpg"
+  },
+  "American Leopard Hound":{
+    "Description":"Intelligence is one of the American Leopard Hound's very best attributes. The breed is loving and affectionate toward their family and they are extremely protective of children. American Leopards are one of the oldest tree dog breeds in the U.S.",
+    "Characteristics":"intelligent / sociable / energetic",
+    "Height":"22 - 27 inches (male)/21 - 25 inches (female)",
+    "Weight":"45-75 pounds(male)/35-65 pounds(female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001556/American-Leopard-Hound-On-White-01-400x267.jpg"
+  },
+  "American Staffordshire Terrier":{
+    "Description":"The American Staffordshire Terrier, known to their fans as AmStaffs, are smart, confident, good-natured companions. Their courage is proverbial. A responsibly bred, well-socialized AmStaff is a loyal, trustworthy friend to the end.",
+    "Characteristics":"good-natured / confident / smart",
+    "Height":"18-19 inches (male)/17-18 inches (female)",
+    "Weight":"55-70 pounds (male)/40-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07172015/AmStaff.01-400x267.jpg"
+  },
+  "American Water Spaniel":{
+    "Description":"The American Water Spaniel, native to the lake country of the upper Midwest, is an upbeat, outdoorsy athlete who loves to hunt and swim. They are known to be happy, eager, and charming, though aloof with strangers and a bit stubborn. American Water Spaniels are muscular midsize gundogs, not flashy in looks or performance, and recognizable by a luscious brown coat that is either tightly curled or wavy.",
+    "Characteristics":"charming / eager / happy",
+    "Height":"15-18 inches",
+    "Weight":"30-45 pounds (male)/25-40 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04160609/American-Water-Spaniel.1-400x267.jpg"
+  },
+  "Anatolian Shepherd Dog":{
+    "Description":"An Anatolian Shepherd Dog is a rugged, imposing flock guardian of ancient lineage. Protective and territorial, but also intelligent, patient, and profoundly loyal, these muscular avengers are prized as working guard dogs without equal. The Anatolian Shepherd Dog stands between 27 and 29 inches at the shoulder and can weigh as much as 150 pounds.",
+    "Characteristics":"reserved / independent / loyal",
+    "Height":"29 inches (male)/27 inches (female)",
+    "Weight":"110-150 pounds (male)/80-120 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001436/Anatolian-Shepherd-Dog-On-White-01-400x267.jpg"
+  },
+  "Appenzeller Sennenhund":{
+    "Description":"The Appenzeller Sennenhund is a medium sized herdng breed that is tri-color and almost squarely built and balanced. He is muscular and agile and makes a good driving, watch, guard, house or farm dog. Due to their versatility and willingness, they excel in agility, obedience, herding and search and rescue.",
+    "Characteristics":"versatile / agile / lively",
+    "Height":"20 -22 inches",
+    "Weight":"48-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07194156/AdobeStock_64186349-400x267.jpg"
+  },
+  "Australian Cattle Dog":{
+    "Description":"The compact but muscular Australian Cattle Dog, also called Blue Heeler or Queensland Heeler, is related to Australia's famous wild dog, the Dingo. These resilient herders are intelligent enough to routinely outsmart their owners. Standing between 17 to 20 inches at the shoulder, the Australian Cattle Dog is a sturdy, hard-muscled herder of strength and agility.",
+    "Characteristics":"alert / curious / pleasant",
+    "Height":"18-20 inches (male)/17-19 inches (female)",
+    "Weight":"35-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19130056/Australian-Cattle-Dog-laying-down-in-the-grass-400x267.jpg"
+  },
+  "Australian Kelpie":{
+    "Description":"The Australian Kelpie is a lithe, active dog, capable of untiring work. He is extremely intelligent, alert, and eager with unlimited energy. As a herding dog, the Australian Kelpie is intensely loyal and devoted to duty.",
+    "Characteristics":"alert / loyal / intelligent",
+    "Height":"17-20 inches",
+    "Weight":"35-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20110435/Australian-Kelpie-herding-sheep-400x267.jpg"
+  },
+  "Australian Shepherd":{
+    "Description":"The Australian Shepherd, a lean, tough ranch dog, is one of those 'only in America' stories: a European breed perfected in California by way of Australia. Fixtures on the rodeo circuit, they are closely associated with the cowboy life.",
+    "Characteristics":"smart / work-oriented / exuberant",
+    "Height":"20-23 inches (male)/18-21 inches (female)",
+    "Weight":"50-65 pounds (male)/40-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03173132/Australian-Shepherd.1-400x267.jpg"
+  },
+  "Australian Stumpy Tail Cattle Dog":{
+    "Description":"The Australian Stumpy Tail Cattle Dog is not an Australian Cattle Dog with a docked tail. They are naturally bob-tailed breed and stands square with plenty of leg length under the body. There are major structural differences in breed type between the two breeds of Cattle Dogs.",
+    "Characteristics":"alert / active / bidable",
+    "Height":"18-20 inches (males)/17-19 inches (females)",
+    "Weight":"38-45 pounds (male)/32-35 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/10105842/Australian-Stumpy-Tail-Cattle-Dog-Slideshow-04-400x267.jpg"
+  },
+  "Australian Terrier":{
+    "Description":"The diminutive Australian Terrier is plucky, spirited, and smart'how did they fit so much dog into such a bitty package? Upbeat and lively, the self-assured Aussie approaches life with plenty of the old-time terrier curiosity and grit. Australian Terriers are small but sturdy, self-confident terriers known for a longish torso, distinctive coat furnishings around the neck and forequarters, and a topknot of soft, silky hair that contrasts in texture with an otherwise harsh coat. A long neck lends a dash of elegance to this rough-and-ready terrier, and the dark eyes sparkle with a keen intelligence.",
+    "Characteristics":"courageous / affectionate / spirited",
+    "Height":"10-11 inches",
+    "Weight":"15-20 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19133259/Australian-Terrier-standing-in-the-garden-400x267.jpg"
+  },
+  "Azawakh":{
+    "Description":"Tall and elegant, the Azawakh is a West African sighthound who originates from the countries of Burkina Faso, Mali, and Niger. The Azawakh has a short, fine coat which may come in any color or color combinations: red, clear sand to fawn, brindled, parti-color (which may be predominantly white), blue, black and brown.",
+    "Characteristics":"independent / loyal / deeply affectionate",
+    "Height":"25-29 inches (male)/23.5-27.5 inches (female)",
+    "Weight":"44-55 pounds (male)/33-44 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03161327/Azawakh_178091272-400x267.jpg"
+  },
+  "Barbado da Terceira":{
+    "Description":"The Barbado da Terceira is a medium-sized herder that is a great companion and family dog. The breed is intelligent, easy to train, docile and willful, joyful, and sensitive. BDTs are athletic and need an experienced and loving owner.",
+    "Characteristics":"loyal / intelligent / joyful and fun loving",
+    "Height":"20 - 22 inches (males)/19 - 21 inches (females)",
+    "Weight":"55-60 pounds (male)/46-57 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/02/25191426/Barbado-da-Terceira-standing-in-the-snow-400x267.jpg"
+  },
+  "Barbet":{
+    "Description":"An archetypic water dog of France, the Barbet is a rustic breed of medium size and balanced proportions who appears in artwork as early as the 16th century. In profile, the Barbet is slightly rectangular with a substantial head and long, sweeping tail. He has a long, dense covering of curly hair and a distinctive beard.",
+    "Characteristics":"friendly / bright / sweet-natured",
+    "Height":"19-24.5 inches",
+    "Weight":"35-65 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11112812/Barbet-standing-in-the-snow-400x267.jpg"
+  },
+  "Basenji":{
+    "Description":"The Basenji, Africa's 'Barkless Dog,' is a compact, sweet-faced hunter of intelligence and poise. They are unique and beguiling pets, best for owners who can meet their exercise needs and the challenge of training this catlike canine. Basenjis are small, graceful hounds standing 16 or 17 inches at the shoulder.",
+    "Characteristics":"independent / smart / poised",
+    "Height":"17 inches (male)/16 inches (female)",
+    "Weight":"24 pounds (male)/22 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19135835/Basenji-running-through-a-field-400x267.jpg"
+  },
+  "Basset Fauve de Bretagne":{
+    "Description":"Smart, courageous and determined, the Basset Fauve de Bretagne is a serious hunter, easily adaptable to different types of game and terrain. It is equally an excellent companion dog, being cheerful, intelligent and eager to please. The Basset Fauve de Bretagne, also known as the Fawn Colored Brittany Basset, is a small, stocky, rough-coated hardy dog that is energetic and fast for its size.",
+    "Characteristics":"sociable / lively / smart",
+    "Height":"12.5-15.5 inches",
+    "Weight":"23-39 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28184409/AdobeStock_23183632-400x267.jpg"
+  },
+  "Basset Hound":{
+    "Description":"Among the most appealing of the AKC breeds, the endearing and instantly recognizable Basset Hound is a perennial favorite of dog lovers all over the world. This low-slung and low-key hound can be sometimes stubborn, but is always charming. The Basset Hound stands no higher than 14 inches at the shoulder but, with his remarkably heavy bone, powerful little legs, and massive paws, he possesses big-dog strength and stamina.",
+    "Characteristics":"charming / patient / low-key",
+    "Height":"up to 15 inches",
+    "Weight":"40-65 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07200501/Basset-Hound-standing-in-the-garden.jpg"
+  },
+  "Bavarian Mountain Scent Hound":{
+    "Description":"The Bavarian Mountain Scent Hound is calm and balanced, devoted to its owner, and reserved with strangers. He is a sound, self-assured, unafraid, biddable dog, neither shy nor aggressive. Hailing from Germany, the Bavarian Mountain Scent Hound is the Bayerischer Gebirgsschweisshund in its native German.",
+    "Characteristics":"loyal / reserved with strangers / versatile",
+    "Height":"17-20.5 inches",
+    "Weight":"37-66 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13191700/Bavarian.190758538-400x267.jpg"
+  },
+  "Beagle":{
+    "Description":"Not only is the Beagle an excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and'thanks to its pleading expression'cute. They were bred to hunt in packs, so they enjoy company and are generally easygoing. There are two Beagle varieties:",
+    "Characteristics":"curious / friendly / merry",
+    "Height":"13-15 inches",
+    "Weight":"20-30 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11123543/Beagles-standing-in-a-frosty-field-on-a-cold-morning-400x267.jpg"
+  },
+  "Bearded Collie":{
+    "Description":"A boisterous and charismatic droving dog from Scotland, the shaggy-coated Bearded Collie ('Beardie' to his friends) enjoys outdoor exercise in all weather. Bred to be independent decision-makers, they can be willful but are always friendly. Standing 20 to 22 inches at the shoulder and covered head to tail in a shaggy double coat, Beardies bear a passing resemblance to another British favorite, the Old English Sheepdog.",
+    "Characteristics":"smart / bouncy / charismatic",
+    "Height":"21-22 inches (male)/20-21 inches (female)",
+    "Weight":"45-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24142449/Bearded-Collie-standing-in-the-grass-400x267.jpg"
+  },
+  "Beauceron":{
+    "Description":"The Beauceron is imposing and powerful, but also remarkably smart, spirited, and a versatile herder. Imagine a Border Collie's brain in a 100-pound body. They are especially beloved by women as a dashing but sensitive companion and protector.",
+    "Characteristics":"faithful / gentle / obedient",
+    "Height":"25.5-27.5 inches (male)/24-26.5 inches (female)",
+    "Weight":"70-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000826/Beauceron-On-White-03-400x267.jpg"
+  },
+  "Bedlington Terrier":{
+    "Description":"Graceful terriers in sheep's clothing, Bedlington Terriers, named for the English mining shire where they were first bred, are genial housemates, alert watchdogs, versatile athletes, and irresistibly cuddly TV-time companions. Bedlingtons are lithe, energetic Englishmen. The crisp, curly coat",
+    "Characteristics":"loyal / charming / frollicking",
+    "Height":"15-17.5 inches",
+    "Weight":"17-23 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09202451/Bedlington-Terrier-standing-outdoors-400x267.jpg"
+  },
+  "Belgian Laekenois":{
+    "Description":"Strong, agile and full of life, the Belgian Laekenois (pronounced \"Lak-in-wah\") is one of four native dogs of Belgium. Although similar in body and temperament to the Malinois, Shepherd and Tervuren, the Laekenois differs in coat color, texture and length, as well as region of origin. Of the four closely related Belgian herders, the Belgian Sheepdog, Malinois, Tervuren, and Laekenois, the Laekenois is the rarest.",
+    "Characteristics":"alert / intelligent / affectionate",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"55-65 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07122515/Belgian-Laekenois-standing-in-profile-in-a-field.jpg"
+  },
+  "Belgian Malinois":{
+    "Description":"The smart, confident, and versatile Belgian Malinois is a world-class worker who forges an unbreakable bond with his human partner. To deny a Mal activity and the pleasure of your company is to deprive him of his very reasons for being. Belgian Malinois are squarely built, proud, and alert herders standing 22 to 26 inches.",
+    "Characteristics":"confident / smart / hardworking",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"60-80 pounds (male)/40-60 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000724/Belgian-Malinois-On-White-01-400x267.jpg"
+  },
+  "Belgian Sheepdog":{
+    "Description":"The Belgian Sheepdog is a highly trainable herder whose versatility and intelligence is the stuff of canine legend. This is a breed built for hard work, and plenty of it. These sensitive souls crave human companionship and abhor neglect.",
+    "Characteristics":"bright / watchful / serious-minded",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"55-75 pounds (male)/45-60 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24164142/Belgian-Sheepdog-standing-in-a-field-400x267.jpg"
+  },
+  "Belgian Tervuren":{
+    "Description":"The elegant, agile Belgian Tervuren is a bright and self-assured herding dog of medium size, known to be affectionate and possessive with loved ones. Lots of hard work and challenging play is heaven for this tireless, do-it-all dog. The Belgian Tervuren is characterized by a straight and abundant coat, an elegant but muscular frame, a proudly carried head, an alert and intelligent demeanor, and an insatiable work drive.",
+    "Characteristics":"alert / intelligent / courageous",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"55-75 pounds (male)/45-60 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29201539/Belgian-Tervuren.3-400x267.jpg"
+  },
+  "Bergamasco Sheepdog":{
+    "Description":"Generally happy with kids and other animals, the low-maintenance and robustly healthy Bergamasco is much more than a show-stopping hairdo. Eager to please, smart, and stubbornly devoted to work, Bergamascos are patient but protective. Beneath the one-of-a-kind coat is a large, muscular shepherd dog of ancient pedigree.",
+    "Characteristics":"independent / intelligent / sociable",
+    "Height":"23.5 inches (male)/22 inches (female)",
+    "Weight":"70-84 pounds (male)/57-71 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28124755/Bergamasco-Sheepdog-standing-in-a-field-in-the-mountains-400x267.jpg"
+  },
+  "Berger Picard":{
+    "Description":"The Berger Picard is a lanky herding dog of strong bone and sturdy build. Picards spent centuries as take-charge independent problem-solvers, so early socialization and positive training are necessary to cope with their stubborn streak. You can spot a Berger Picard a mile away thanks to his erect ears standing 4 to 5 inches high, a wavy fawn or brindle coat, and a strong tail that tapers to a distinctive J-hook.",
+    "Characteristics":"loyal / good-natured / observant",
+    "Height":"23.5-25.5 inches (male)/21.5-23.5 inches (female)",
+    "Weight":"50-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03193707/Berger-Picard-standing-in-a-field-400x267.jpg"
+  },
+  "Bernese Mountain Dog":{
+    "Description":"Big, powerful, and built for hard work, the Bernese Mountain Dog is also strikingly beautiful and blessed with a sweet, affectionate nature. Berners are generally placid but are always up for a romp with the owner, whom they live to please. The Bernese Mountain Dog is a large, sturdy worker who can stand over 27 inches at the shoulder.",
+    "Characteristics":"good-natured / calm / strong",
+    "Height":"25-27.5 inches (male)/23-26 inches (female)",
+    "Weight":"80-115 pounds (male)/70-95 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11124331/Bernese-Mountain-Dog-On-White-01-400x267.jpg"
+  },
+  "Bichon Frise":{
+    "Description":"The small but sturdy and resilient Bichon Frise stands among the world's great 'personality dogs.' Since antiquity, these irresistible canine comedians have relied on charm, beauty, and intelligence to weather history's ups and downs. A good-size Bichon will stand a shade under a foot tall at the shoulder. The breed's glory is a white hypoallergenic coat, plush and velvety to the touch, featuring rounded head hair that sets off the large, dark eyes and black leathers of the nose and lips.",
+    "Characteristics":"curious / playful / peppy",
+    "Height":"9.5-11.5 inches",
+    "Weight":"12-18 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000402/Bichon-Frise-On-White-03-400x267.jpg"
+  },
+  "Biewer Terrier":{
+    "Description":"The Biewer Terrier is an elegant, longhaired, tri-colored toy terrier whose only purpose in life is to love and be loved. They maintain a charming, whimsical attitude well into adulthood. Carrying around a toy or two is not surprising.",
+    "Characteristics":"intelligent / devoted / amusing",
+    "Height":"7-11 inches",
+    "Weight":"4-8 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/05140029/Biewer-Terrier-standing-on-a-white-background-400x267.jpg"
+  },
+  "Black and Tan Coonhound":{
+    "Description":"Large, athletic hunters who work nights, Black and Tan Coonhounds are friendly, easygoing hounds who love company. They are snoozy by the fireside but tenacious when on the trail of the wily raccoon. The Black and Tan Coonhound is a real American original.",
+    "Characteristics":"easy-going / bright / brave",
+    "Height":"25-27 inches (male)/23-25 inches (female)",
+    "Weight":"65-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29172221/Black-and-Tan-Coonhound-On-White-031-400x267.jpg"
+  },
+  "Black Russian Terrier":{
+    "Description":"The Black Russian Terrier is a large, immensely powerful worker of heavy bone and coarse all-black coat. BRTs are known for their courage, confidence, and intelligence. Bred to guard and protect, they are naturally aloof with strangers.",
+    "Characteristics":"intelligent / calm / powerful",
+    "Height":"27-30 inches (male)/26-29 inches (female)",
+    "Weight":"80-130 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11232144/Black-Russian-Terrier-standing-outdoors-400x267.jpg"
+  },
+  "Bloodhound":{
+    "Description":"The world-famous 'Sleuth Hound' does one thing better than any creature on earth: find people who are lost or hiding. An off-duty Bloodhound is among the canine kingdom's most docile citizens, but he's relentless and stubborn on a scent.",
+    "Characteristics":"independent / friendly / inquisitive",
+    "Height":"25-27 inches (male)/23-25 inches (female)",
+    "Weight":"90-110 pounds (male)/80-100 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25141649/Bloodhound-on-a-scent-in-the-woods-400x267.jpg"
+  },
+  "Bluetick Coonhound":{
+    "Description":"The sleekly beautiful Bluetick Coonhound is a sweet and affectionate charmer who might enjoy snoozing in the shade, but in pursuit of quarry he is relentless, bold, and single-minded. His off-the-charts prey drive must be channeled. Blueticks are speedy and compact nocturnal hunters named for the mottled (or 'ticked') black-and-blue pattern of the glossy coat.",
+    "Characteristics":"devoted / smart / tenacious",
+    "Height":"22-27 inches (male)/21-25 inches (female)",
+    "Weight":"55-80 pounds (male)/45-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28195318/Bluetick-Coonhound-400x267.jpg"
+  },
+  "Boerboel":{
+    "Description":"Boerboels are intimidating but discerning guardians of home and family who learned their trade while protecting remote South African homesteads from ferocious predators. They are dominant and confident, also bright and eager to learn. There's a no-frills, no-nonsense quality to this sleek-coated avenger, who might stand as high as 27 inches at the shoulder and weigh as much as you do.",
+    "Characteristics":"intelligent / confident / calm",
+    "Height":"24-27 inches (male)/22-25 inches (female)",
+    "Weight":"150-200 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000046/Boerboel-On-White-01-400x267.jpg"
+  },
+  "Bohemian Shepherd":{
+    "Description":"The Bohemian Shepherd is an intelligent, lively, quick, athletic breed which enthusiastically welcomes most any activity introduced, making the breed rather versatile. They succeed in many arenas such as agility, dog dancing, schutzhund, search and rescue, nose work, tracking, pastoral work, obedience, therapy dogs, service dogs, and are now breaking into the fields of coursing, dock diving and endurance tests. The Bohemian Shepherd makes an excellent family dog due to its devotion to family members and adoration of children.",
+    "Characteristics":"friendly, devoted, alert and intelligent",
+    "Height":"20.5-21.7 inches (males)/19.3-20.5 inches (females)",
+    "Weight":"41-60 pounds (males)/37-53 pounds (females)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/06/22143655/Bohemian-Shepherd-standing-in-profile-in-a-field-of-tall-brown-grasses.jpg"
+  },
+  "Bolognese":{
+    "Description":"The Bolognese, a member of the Bichon family, is an enchanting small, white companion dog with a compact and sturdy, square body. The Bolognese is a rather serious dog and generally not high energy but is intelligent and witty. A small companion breed originating in Italy, the Bolognese is a calm, faithful dog with a long, fluffy pure-white coat.",
+    "Characteristics":"playful / easy-going / devoted",
+    "Height":"10-12 inches",
+    "Weight":"6-10 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07171038/AdobeStock_71665389-400x267.jpg"
+  },
+  "Border Collie":{
+    "Description":"A remarkably bright workaholic, the Border Collie is an amazing dog'maybe a bit too amazing for owners without the time, energy, or means to keep it occupied. These energetic dogs will settle down for cuddle time when the workday is done. Borders are athletic, medium-sized herders standing 18 to 22 inches at the shoulder.",
+    "Characteristics":"energetic / affectionate / smart",
+    "Height":"19-22 inches (male)/18-21 inches (female)",
+    "Weight":"30-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235957/Border-Collie-On-White-01-400x267.jpg"
+  },
+  "Border Terrier":{
+    "Description":"Admirers of the upbeat and agile Border Terrier cherish their breed's reputation as a tough, no-frills working terrier. These plucky, happy, and affectionate dogs are popular pets in town and country. The wiry coat is an easy keeper.",
+    "Characteristics":"affectionate / happy / plucky",
+    "Height":"12-15 inches",
+    "Weight":"13-15.5 pounds (male)/11.5-14 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235916/Border-Terrier-On-White-03-400x267.jpg"
+  },
+  "Borzoi":{
+    "Description":"Among the most impressively beautiful of all dogs, the aristocratic Borzoi is cherished for his calm, agreeable temperament. In full stride, he is a princely package of strength, grace, and glamour flying by at 35 to 40 miles per hour. Borzoi are large, elegant sighthounds.",
+    "Characteristics":"loyal / affectionate / regally dignified",
+    "Height":"28 inches & up (male)/26 inches & up (female)",
+    "Weight":"75-105 pounds (male)/60-85 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15110821/Borzoi-running-outdoors-400x267.jpg"
+  },
+  "Boston Terrier":{
+    "Description":"The Boston Terrier is a lively little companion recognized by his tight tuxedo jacket, sporty but compact body, and the friendly glow in his big, round eyes. His impeccable manners have earned him the nickname 'The American Gentleman'\n\nBoston Terriers are compact, short-tailed, well-balanced little dogs weighing no more than 25 pounds. The stylish 'tuxedo' coat can be white and either black, brindle, or seal (dark brown).",
+    "Characteristics":"friendly / bright / amusing",
+    "Height":"15-17 inches",
+    "Weight":"12-25 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235803/Boston-Terrier-On-White-03-400x267.jpg"
+  },
+  "Bouvier des Flandres":{
+    "Description":"They don't build 'em like this anymore. Burly and barrel-chested, the tousle-coated dog of Flandres is from a time and place where a dog had to work like ' well, a dog. These smart and steady all-purpose workers make excellent watchdogs.",
+    "Characteristics":"strong-willed / courageous / affectionate",
+    "Height":"24.5-27.5 inches (male)/23.5-26.5 inches (female)",
+    "Weight":"70-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25162012/Bouvier-des-Flandres-standing-atop-a-hill-400x267.jpg"
+  },
+  "Boxer":{
+    "Description":"Loyalty, affection, intelligence, work ethic, and good looks: Boxers are the whole doggy package. Bright and alert, sometimes silly, but always courageous, the Boxer has been among America's most popular dog breeds for a very long time.",
+    "Characteristics":"active / bright / fun-loving",
+    "Height":"23-25 inches (male)/21.5-23.5 inches (female)",
+    "Weight":"65-80 pounds (male)/females are about 15 pounds less than male",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17154200/Boxer.1-400x267.jpg"
+  },
+  "Boykin Spaniel":{
+    "Description":"A medium-sized flushing and retrieving dog known for its rich brown coat, the Boykin Spaniel is avid, eager, merry, and trainable. This mellow housedog and tenacious bird dog was once South Carolina's best-kept secret. Boykins are medium-sized spaniels, larger and rangier than Cockers but more compact than Springers.",
+    "Characteristics":"friendly / eager / lovable",
+    "Height":"15.5-18 inches (male)/14-16.5 inches (female)",
+    "Weight":"30-40 pounds (male)/25-35 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17123933/Boykin-Spaniel-holding-a-dummy-toy-400x267.jpg"
+  },
+  "Bracco Italiano":{
+    "Description":"The Bracco Italiano is one of the oldest of the pointing breeds. It was introduced into the United States in the 1990s and has remained true to its heritage as a versatile gun dog. It is gentle in the home and tireless in the field.",
+    "Characteristics":"intelligent / affectionate / enthusiastic",
+    "Height":"21-27 inches",
+    "Weight":"55-90 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15104437/Bracco.7-400x267.jpg"
+  },
+  "Braque du Bourbonnais":{
+    "Description":"Pronounced brock-do-bor-bon-NAY, this pointer has a calm, gentle demeanor that is ideally suited for the foot hunter. The breed's relatively small size and short coat well suits them as an ideal home companion for the family that hunts. The Bourbonnais is an ancient breed that evolved in France during the 15th century in the historic province of Bourbonnais.",
+    "Characteristics":"affectionate / gentle / adaptable",
+    "Height":"19-22.5 inches",
+    "Weight":"35-53 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01230324/Bourbonnais-400x267.jpg"
+  },
+  "Braque Francais Pyrenean":{
+    "Description":"The Braque Francais Pyrenean is a rustic breed and hails from France. In English, he is the French Pointing Dog Pyrenean Type. The Braque Francais Pyrenean is a well-proportioned, medium-sized dog with a soft, shorthaired coat.",
+    "Characteristics":"friendly / smart / willing to please",
+    "Height":"18.5-23 inches",
+    "Weight":"40-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18142815/Braque-Francais-Pyrenean-400x267.jpg"
+  },
+  "Briard":{
+    "Description":"The Briard packs so much loyalty, love, and spirit into its ample frame that it's often described as a \"heart wrapped in fur.\" The dashing good looks of these muscular Frenchmen radiate a distinct aura of Gallic romance and elegance. Briards are herders known for a wavy coat of either gray, tawny, or black, and an impressive head topped by a peek-a-boo hairdo parted naturally in the middle. A luxurious beard and eyebrows accentuate an expression described as 'frank and questioning.' Standing between 22 and 27 inches at the shoulder, Briards are burly and rugged but move with a nimble-footed gait.",
+    "Characteristics":"confident / smart / faithful",
+    "Height":"23-27 inches (male)/22-25.5 inches (female)",
+    "Weight":"55-100 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25172951/Briard-standing-in-the-grass-400x267.jpg"
+  },
+  "Brittany":{
+    "Description":"Sportsmen on both sides of the Atlantic cherish the agile, energetic Brittany as a stylish and versatile gundog. Bright and eager at home, and tireless afield, Brittanys require a lot of exercises, preferably with their favorite humans. Brittanys are smaller than setters but leggier than spaniels, standing about 20 inches at the shoulder.",
+    "Characteristics":"bright / fun-loving / upbeat",
+    "Height":"17.5-20.5 inches",
+    "Weight":"30-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19033403/Brittany-1-400x267.jpg"
+  },
+  "Broholmer":{
+    "Description":"Calm, good-natured, yet watchful and confident, the Broholmer hails from Denmark and makes a great family companion. A large, mastiff-type dog, the Broholmer is rectangular and strongly built with a wide, massive head. Around the year 1800, a Danish dog book described him as a very ordinary breed, especially around Copenhagen.",
+    "Characteristics":"friendly / loving / watchful",
+    "Height":"27.5-29.5 inches",
+    "Weight":"90-150 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11110117/Broholmer-laying-down-in-the-park.jpg"
+  },
+  "Brussels Griffon":{
+    "Description":"Tipping the scales at no more than 12 pounds, this humanlike toy of complex character has enough personality for 10 ordinary dogs. A sensitive companion for discerning grownups, the Brussels Griffon is smart, devoted, and comically self-important. With this breed, you get a big personality in a 5-to-15-pound package.",
+    "Characteristics":"alert / curious / loyal",
+    "Height":"7-10 inches",
+    "Weight":"8-10 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01164202/Brussels-Griffon-sitting-outdoors-400x267.jpg"
+  },
+  "Bull Terrier":{
+    "Description":"Among the most comical and mischievous citizens of dogdom, the Bull Terrier is playful and endearing, sometimes stubborn, but always devoted. These unique 'eggheads' are exuberant, muscular companions who thrive on affection and exercise. Bull Terriers are robust, big-boned terriers who move with a jaunty stride suggesting agility and power.",
+    "Characteristics":"playful / charming / mischievous",
+    "Height":"21-22 inches",
+    "Weight":"50-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213126/bull-terrier-on-white-10-400x267.jpg"
+  },
+  "Bulldog":{
+    "Description":"Kind but courageous, friendly but dignified, the Bulldog is a thick-set, low-slung, well-muscled bruiser whose 'sourmug' face is the universal symbol of courage and tenacity. These docile, loyal companions adapt well to town or country. \n\nYou can't mistake a Bulldog for any other breed.",
+    "Characteristics":"friendly / courageous / calm",
+    "Height":"14-15 inches",
+    "Weight":"50 pounds (male)/40 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11234019/Bulldog-standing-in-the-grass-400x267.jpg"
+  },
+  "Bullmastiff":{
+    "Description":"Fearless at work, docile at home, the Bullmastiff is a large, muscular guarder who pursued and held poachers in Merry Old England'merry, we suppose, for everyone but poachers. Bullmastiffs are the result of Bulldog and Mastiff crosses. The Bullmastiff isn't quite as large as his close cousin the Mastiff.",
+    "Characteristics":"loyal / affectionate / brave",
+    "Height":"25-27 inches (male)/24-26 inches (female)",
+    "Weight":"110-130 pounds (male)/100-120 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22123345/Bullmastiff-standing-in-a-field-400x267.jpg"
+  },
+  "Cairn Terrier":{
+    "Description":"Cairn Terriers are happy, busy little earthdogs originally bred to fearlessly root out foxes and other small, furred prey in the rocky Scottish countryside. Curious and alert, Cairns like having a place where they can explore and dig. The Cairn's unique qualities, called 'Cairnishness,' include a short, wide head and a free-moving, short-legged body that exudes strength but not heaviness, topping out at about 10 inches high and about 15 inches long.",
+    "Characteristics":"alert / cheerful / busy",
+    "Height":"10 inches (male)/9.5 inches (female)",
+    "Weight":"14 pounds (male)/13 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12164822/Cairn-Terrier-sitting-in-the-grass-400x267.jpg"
+  },
+  "Canaan Dog":{
+    "Description":"One of the AKC's oldest breeds, the Canaan Dog is the national dog of Israel. This quick, medium-sized pasture dog is docile with family, aloof with strangers. The ever-alert Canaan is a vocal and persistent guardian of flock and home.",
+    "Characteristics":"alert / vigilant / confident",
+    "Height":"20-24 inches (male)/19-23 inches (female)",
+    "Weight":"45-55 pounds (male)/35-45 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235112/Canaan-Dog-On-White-01-400x267.jpg"
+  },
+  "Cane Corso":{
+    "Description":"Smart, trainable, and of noble bearing, the assertive and confident Cane Corso is a peerless protector. The Corso's lineage goes back to ancient Roman times, and the breed's name roughly translates from the Latin as 'bodyguard dog.\n\nAt nearly 28 inches at the shoulder and often weighing more than 100 pounds, with a large head, alert expression, and muscles rippling beneath their short, stiff coat, Corsi are at a glance intimidating creatures. Their imposing appearance is their first line of defense against intruders.",
+    "Characteristics":"intelligent / affectionate / majestic",
+    "Height":"25-27.5 inches (male)/23.5-26 inches (female)",
+    "Weight":"99-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18123713/Cane-Corso-AKC-121516-296-400x267.jpg"
+  },
+  "Cardigan Welsh Corgi":{
+    "Description":"The Cardigan Welsh Corgi is a masterpiece of the breeder's art: Every aspect of its makeup is perfectly suited to moving cattle, and yet it is so congenial and sweet-faced that it would be a cherished companion even if it never did a day's work. Long, low-set dogs with sturdy bone, short legs, and a deep chest, Cardigans are powerful workers of deceptive speed and grace.",
+    "Characteristics":"loyal / affectionate / smart",
+    "Height":"10.5-12.5 inches",
+    "Weight":"30-38 pounds (male)/25-34 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04202304/Cardigan-Welsh-Corgi-on-White-111-400x267.jpg"
+  },
+  "Carolina Dog":{
+    "Description":"Carolina Dogs are generally shy and suspicious in nature, but once a dog accepts a human into its pack, those behaviors disappear toward that human. A sighthound of medium build, they have the general appearance of a jackal or wolf. Carolina dogs are descended from the canines that accompanied the Paleo-Indians who traveled from Asia to North America over the Bering land bridge.",
+    "Characteristics":"independent / loyal / reserved with strangers",
+    "Height":"17.75-19.5 inches",
+    "Weight":"30-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20113314/Carolina-Dog-standing-outdoors-400x267.jpg"
+  },
+  "Catahoula Leopard Dog":{
+    "Description":"The Catahoula Leopard Dog is a multi-purpose working dog that is well-muscled and powerful, but with a sense of agility and endurance. They are serious while working and playful at home. The Catahoula Leopard Dog is a medium-large, short-coated dog, known for its many varied coat and eye colors and patterns.",
+    "Characteristics":"independent / loyal / watchful",
+    "Height":"22-24 inches",
+    "Weight":"50-95 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12211404/Catahoula-Leopard-Dog-on-White-02-400x267.jpg"
+  },
+  "Caucasian Shepherd Dog":{
+    "Description":"The Caucasian Shepherd dog is a serious guardian breed and should never be taken lightly. The Caucasian is bold, fearless, self-confident and fierce when a threat is present, but he is soft, devoted, kind and endearing to his family, including other family pets. Caucasian Shepherd dogs were used for centuries to protect properties from trespassers, guard livestock from large and small predators such as wolves and coyotes, and for many other duties.",
+    "Characteristics":"fearless / bold / kind",
+    "Height":"23-30 inches",
+    "Weight":"99-170 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14131930/GettyImages-1095398138-400x267.jpg"
+  },
+  "Cavalier King Charles Spaniel":{
+    "Description":"The Cavalier King Charles Spaniel wears his connection to British history in his breed's name. Cavaliers are the best of two worlds, combining the gentle attentiveness of a toy breed with the verve and athleticism of a sporting spaniel. The Cavalier's all-around beauty, regal grace, and even temper mark him as one of dogdom's noblemen.",
+    "Characteristics":"affectionate / gentle / graceful",
+    "Height":"12-13 inches",
+    "Weight":"13-18 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13142848/Cavalier-King-Charles-Spaniel-standing-in-the-grass-400x267.jpg"
+  },
+  "Central Asian Shepherd Dog":{
+    "Description":"The Central Asian Shepherd Dog is self-assured, balanced, quiet, proud and independent. They are very courageous and have a high working capacity, endurance and a natural instinct of territory. This breed is known for its fearlessness towards large predators.",
+    "Characteristics":"independent / courageous / self-confident",
+    "Height":"Minimum: 25.5-27.5 inches",
+    "Weight":"Minimum: 88-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12185837/Central-Asian-Shepherd-Dog-on-White-02-400x267.jpg"
+  },
+  "Cesky Terrier":{
+    "Description":"The Cesky Terrier, national dog of the Czech Republic, is a clever and adventurous playmate for kids and an eager walking buddy for the folks. They are tenacious at work, but a little more laid back and tractable than the usual terrier. Ceskys are muscular, short-legged, and handsome hunters standing no taller than 13 inches at the shoulder.",
+    "Characteristics":"clever / adventurous / family-oriented",
+    "Height":"10-13 inches",
+    "Weight":"14-24 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15141010/Cesky-Terrier-on-White-011-400x267.jpg"
+  },
+  "Chesapeake Bay Retriever":{
+    "Description":"The Chesapeake Bay Retriever, peerless duck dog of the Mid-Atlantic, is an American original who embodies the classic traits of a good retriever: loyal, upbeat, affectionate, and tireless. The Chessie is famous for his waterproof coat.",
+    "Characteristics":"bright / affectionate / sensitive",
+    "Height":"23-26 inches (male)/21-24 inches (female)",
+    "Weight":"65-80 pounds (male)/55-70 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29231024/Chesapeake-Bay-Retriever-hunting-400x267.jpg"
+  },
+  "Chihuahua":{
+    "Description":"The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing \"purse dogs\" stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times. The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds.",
+    "Characteristics":"charming / graceful / sassy",
+    "Height":"5-8 inches",
+    "Weight":"not exceeding 6 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27134650/Chihuahua-standing-in-three-quarter-view-400x267.jpg"
+  },
+  "Chinese Crested":{
+    "Description":"With their spotted pink skin, spiky 'crested' hairdo, furry socks and feathery tail, you can't mistake the sweet and slender Chinese Crested for any other breed. This frolicsome, ultra-affectionate companion dog is truly a breed apart. The Chinese Crested, a lively and alert toy breed standing between 11 and 13 inches high, can be hairless or coated.",
+    "Characteristics":"alert / lively / affectionate",
+    "Height":"11-13 inches",
+    "Weight":"8-12 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234649/Chinese-Crested-On-White-01-400x267.jpg"
+  },
+  "Chinese Shar-Pei":{
+    "Description":"This fascinating but challenging breed of ancient pedigree is steadfastly loyal to family, but standoffish with strangers. The Chinese Shar-Pei has physical characteristics that make him a one-of-a-kind companion and guardian dog. The compact, medium-sized Chinese Shar-Pei is an amalgam of odd physical traits:",
+    "Characteristics":"independent / loyal / calm",
+    "Height":"18-20 inches",
+    "Weight":"45-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08174941/Chinese-Shar-Pei-standing-on-the-sidewalk-400x267.jpg"
+  },
+  "Chinook":{
+    "Description":"The pride of Wonalancet, New Hampshire, the Chinook is a rugged working dog and devoted family pet known for intelligence, patience, and eagerness to please. Once on the verge of extinction, the Chinook is among the scarcest AKC breeds. Tawny-coated, no-frills Chinooks are muscular and substantial, with males standing as high as 26 inches at the shoulder.",
+    "Characteristics":"devoted / smart / patient",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"55-90 pounds (male)/50-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234558/Chinook-On-White-03-400x267.jpg"
+  },
+  "Chow Chow":{
+    "Description":"The Chow Chow, an all-purpose dog of ancient China, presents the picture of a muscular, deep-chested aristocrat with an air of inscrutable timelessness. Dignified, serious-minded, and aloof, the Chow Chow is a breed of unique delights. Chows are powerful, compactly built dogs standing as high as 20 inches at the shoulder.",
+    "Characteristics":"dignified / bright / serious-minded",
+    "Height":"17-20 inches",
+    "Weight":"45-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234523/Chow-Chow-On-White-01-400x267.jpg"
+  },
+  "Cirneco dell'Etna":{
+    "Description":"The sleek and sinewy Cirneco dell'Etna, the ancient coursing hound of Sicily, is an athletic hunter given to quick bursts of speed. As housedogs, Cirnechi are mild, low-maintenance companions cherished for their loyal and gentle nature. Standing under 20 inches, the Cirneco ('cheer-NEK-o')",
+    "Characteristics":"independent / friendly / affectionate",
+    "Height":"18-19.5 inches (male)/16.5-18 inches (female)",
+    "Weight":"22-26 pounds (male)/17-22 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27154244/Cirneco-dellEtna-hunting.jpg"
+  },
+  "Clumber Spaniel":{
+    "Description":"A dignified and mellow hunting companion of kings, the Clumber Spaniel is the largest of the AKC flushing spaniels. For those who can handle some shedding and drooling, the amiable Clumber is an amusing best friend and a gentlemanly housemate. Clumber Spaniels are powerful bird dogs of heavy bone, built long and low, with a massive head.",
+    "Characteristics":"mellow / amusing / gentlemanly",
+    "Height":"18-20 inches (male)/17-19 inches (female)",
+    "Weight":"70-85 pounds (male)/55-70 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07135844/Clumber-Spaniel-On-White-011-400x267.jpg"
+  },
+  "Cocker Spaniel":{
+    "Description":"The merry and frolicsome Cocker Spaniel, with his big, dreamy eyes and impish personality, is one of the world's best-loved breeds. They were developed as hunting dogs, but Cockers gained their wide popularity as all-around companions. Those big, dark eyes",
+    "Characteristics":"smart / happy / gentle",
+    "Height":"14.5-15.5 inches (male)/13.5-14.5 inches (female)",
+    "Weight":"25-30 pounds (male)/20-25 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01132744/Cocker-Spaniel-running-in-the-yard-400x267.jpg"
+  },
+  "Collie":{
+    "Description":"The majestic Collie, thanks to a hundred years as a pop-culture star, is among the world's most recognizable and beloved dog breeds. The full-coated 'rough' Collie is the more familiar variety, but there is also a sleek 'smooth' Collie. The Collie is a large but lithe herder standing anywhere from 22 to 26 inches tall.",
+    "Characteristics":"devoted / proud / graceful",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"60-75 pounds (male)/50-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/10130454/Collie-standing-in-a-field-400x267.jpg"
+  },
+  "Coton de Tulear":{
+    "Description":"The Coton de Tulear, 'Royal Dog of Madagascar,' is a bright, happy-go-lucky companion dog whose favorite activities include clowning, cavorting, and following their special human around the house. The Coton is small but robustly sturdy. The Coton de Tulear (KO-Tone Dih TOO-Lay-ARE) is a small, immensely charming dog standing between 9 and 11 inches high and weighing anywhere from 8 to 13 pounds.",
+    "Characteristics":"charming / bright / happy-go-lucky",
+    "Height":"10-11 inches (male)/9-10 inches (female)",
+    "Weight":"9-15 pounds (male)/8-13 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20175536/Coton-de-Tulear-standing-in-the-grass.jpg"
+  },
+  "Croatian Sheepdog":{
+    "Description":"The Croatian Sheepdog is an agile, helpful and humble shepherd dog, self-reliant to his owner, brave and trustworthy. He is the true master of his flock, often running through the back of the herd to get to the point of intervention as soon as possible. Petar Horvat, the bishop of Djakovo, wrote in 1374 that Croats had brought a shepherd dog along on the move to their new land.",
+    "Characteristics":"loyal / active / alert and intelligent",
+    "Height":"16-20 inches",
+    "Weight":"29-44 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/05/16193300/Croatian-Sheepdog-400x267.jpg"
+  },
+  "Curly-Coated Retriever":{
+    "Description":"The Curly-Coated Retriever, among the oldest of the retriever breeds, is a famously versatile gundog and peerless swimmer. Poised, proud, and wickedly smart, the Curly is a thinking person's retriever who will never quit before you do. The Curly-Coated Retriever's tight, crisp curls of either black or liver serve as waterproof and thorn-resistant all-weather gear for work in thick bramble and icy lakes.",
+    "Characteristics":"confident / proud / wickedly smart",
+    "Height":"25-27 inches (male)/23-25 inches (female)",
+    "Weight":"60-95 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17231047/Curly-Coated-Retriever-standing-stacked-in-a-field-at-sunset.20200418030641387-400x267.jpg"
+  },
+  "Czechoslovakian Vlcak":{
+    "Description":"An alert, primitive canine that resembles a wolf in appearance. They are highly intelligent, powerful, active, loyal and devoted to it's owner. They have superior eyesight, hearing and sense of smell and are known for having excellent stamina and endurance.",
+    "Characteristics":"loyal / intelligent / active",
+    "Height":"Minimum: 23.5-25.5 inches",
+    "Weight":"Minimum: 44-57 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09141119/Czechoslovakian-Vlcak.179296809-400x267.jpg"
+  },
+  "Dachshund":{
+    "Description":"The famously long, low silhouette, ever-alert expression, and bold, vivacious personality of the Dachshund have made him a superstar of the canine kingdom. Dachshunds come in two sizes and in three coat types of various colors and patterns. The word 'icon' is terribly overworked, but the Dachshund'with his unmistakable long-backed body, little legs, and big personality'is truly an icon of purebred dogdom.",
+    "Characteristics":"curious / friendly / spunky",
+    "Height":"8-9 inches (standard)/5-6 inches (miniature)",
+    "Weight":"16-32 pounds (standard)/11 pounds & under (miniature)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07143620/Longhaired-Dachshund-standing-outdoors-400x267.jpg"
+  },
+  "Dalmatian":{
+    "Description":"The dignified Dalmatian, dogdom's citizen of the world, is famed for his spotted coat and unique job description. During their long history, these \"coach dogs\" have accompanied the horse-drawn rigs of nobles, gypsies, and firefighters. The Dalmatian's delightful, eye-catching spots of black or liver adorn one of the most distinctive coats in the animal kingdom.",
+    "Characteristics":"dignified / outgoing / smart",
+    "Height":"19-24 inches",
+    "Weight":"45-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234026/Dalmatian-On-White-01-400x267.jpg"
+  },
+  "Dandie Dinmont Terrier":{
+    "Description":"The unique-looking Dandie Dinmont Terrier is a tough but dignified little exterminator. Sturdily built for the rigors of farm life, they will agreeably adapt to city living. Dandies are compact companions blessed with a big personality.",
+    "Characteristics":"independent / proud / smart",
+    "Height":"8-11 inches",
+    "Weight":"18-24 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213000/Dandie-Dinmont-Terrier-slide-6-400x267.jpg"
+  },
+  "Danish-Swedish Farmdog":{
+    "Description":"Known as the Little Big Dog, the Danish-Swedish Farmdog is a companion dog that loves to work and enjoys a challenge. They are a small, compact and slightly rectangular dog, known to mature late. This breed entered the American Kennel Club Foundation Stock Services Program (AKC FSS) in 2011.",
+    "Characteristics":"energetic / trainable / attentive",
+    "Height":"12.5-14.5 inches",
+    "Weight":"15-20 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26121543/Danish-Swedish-Farmdog-standing-outdoors-at-dusk-400x267.jpg"
+  },
+  "Deutscher Wachtelhund":{
+    "Description":"The Deutscher Wachtelhund has a scenting and blood tracking ability comparable to a Bloodhound and can track 40-hour-old wounded game. On a fresh game trail, it must vocalize to inform hunters of its location. They are a versatile breed, virtually unknown to the German non-hunting public, and are only owned by hunters, gamekeepers, and professional hunters in Germany.",
+    "Characteristics":"friendly / versatile / determined",
+    "Height":"18-21 inches",
+    "Weight":"40-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29130931/AdobeStock_1083293871-400x267.jpg"
+  },
+  "Doberman Pinscher":{
+    "Description":"Sleek and powerful, possessing both a magnificent physique and keen intelligence, the Doberman Pinscher is one of dogkind's noblemen. This incomparably fearless and vigilant breed stands proudly among the world's finest protection dogs. Dobermans are compactly built dogs'muscular, fast, and powerful'standing between 24 to 28 inches at the shoulder.",
+    "Characteristics":"alert / loyal / fearless",
+    "Height":"26-28 inches (male)/24-26 inches (female)",
+    "Weight":"75-100 pounds (male)/60-90 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224830/Doberman-Pinscher-standing-outdoors-400x267.jpg"
+  },
+  "Dogo Argentino":{
+    "Description":"The Dogo Argentino is a pack-hunting dog, bred for the pursuit of big-game such as wild boar and puma, and possesses the strength, intelligence and quick responsiveness of a serious athlete. His short, plain and smooth coat is completely white, but a dark patch near the eye is permitted as long as it doesn't cover more than 10% of the head. The ideal Dogo Argentino is a study in harmony.",
+    "Characteristics":"loyal / courageous / athletic",
+    "Height":"24-26.5 inches (male)/24-25.5 inches (female)",
+    "Weight":"80-100 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11141747/Dogo-Argentino-400x267.jpg"
+  },
+  "Dogue de Bordeaux":{
+    "Description":"The most ancient of French dog breeds, the Dogue de Bordeaux ('Mastiff of Bordeaux') was around even before France was France. These brawny fawn-coated guardians of considerable courage are famously loyal, affectionate, and protective. The Dogue de Bordeaux is an immensely powerful mastiff-type guardian.",
+    "Characteristics":"loyal / courageous / affectionate",
+    "Height":"23.27 inches (male)/23-26 inches (female)",
+    "Weight":"110 pounds & up (male)/99 pounds & up (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233808/Dogue-de-Bordeaux-On-White-03-400x267.jpg"
+  },
+  "Drentsche Patrijshond":{
+    "Description":"This breed is pronounced da'rinse-ah puh'trice-hoon. The Drentsche Patrijshond, Drent for short, is not your typical continental pointer. For starters, the Drent has a tail and is nearly four hundred years old.",
+    "Characteristics":"loyal / intelligent / friendly",
+    "Height":"23-25 inches (male)/21-23 inches (female)",
+    "Weight":"70-73 pounds (male)/55-60 pounds(female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12123647/Drentsche-Patrijshond-standing-in-a-field.jpg"
+  },
+  "Drever":{
+    "Description":"The Drever is robust and strong rather than elegant and speedy. They have a proud carriage, well-developed muscles and agile appearance. Affectionate, playful, and sweet, the Drever gets along well with most other breeds and is great in groups.",
+    "Characteristics":"loyal / determined / even-tempered",
+    "Height":"12-15 inches",
+    "Weight":"35-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18182350/Drever-face-400x267.jpg"
+  },
+  "Dutch Shepherd":{
+    "Description":"The Dutch Shepherd is a lively, athletic, alert and intelligent breed, and has retained its herding instinct for which it was originally developed. Having an independent nature, it can be slightly obstinate and have a mind of its own. Since its original duties were to keep flocks of sheep in a particular location, it is able to run all day, and that is reflected in its physique and structure.",
+    "Characteristics":"intelligent / lively / athletic",
+    "Height":"21.5-24.5 inches",
+    "Weight":"42-75 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16172653/Dutch-Shepherd-in-a-field.jpg"
+  },
+  "English Cocker Spaniel":{
+    "Description":"English Cocker Spaniel lovers often use the word 'merry' to describe their breed. Upbeat in the field and mellow at home, this compact, silky-coated bird dog is widely admired for his delightful personality and irresistible good looks. The English Cocker Spaniel is a compactly built sporting dog standing between 15 to 17 inches at the shoulder.",
+    "Characteristics":"energetic / merry / responsive",
+    "Height":"16-17 inches (male)/15-16 inches (female)",
+    "Weight":"28-34 pounds (male)/26-32 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16105011/English-Cocker-Spaniel-Slide03-400x267.jpg"
+  },
+  "English Foxhound":{
+    "Description":"The English Foxhound is a substantial galloping hound of great stamina. His long legs are straight as a gatepost, and just as sturdy. The back is perfectly level.",
+    "Characteristics":"sociable / affectionate / gentle",
+    "Height":"24 inches",
+    "Weight":"60-75 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19120219/English-Foxhound-standing-in-a-field-400x267.jpg"
+  },
+  "English Setter":{
+    "Description":"The English Setter is a medium-sized sporting dog of sweet temper and show-stopping good looks. It is one of the AKC's four British setters created to work on the distinctly different terrains of England, Ireland, and Scotland. English Setters are elegant but solid dogs of beauty and charm.",
+    "Characteristics":"friendly / mellow / merry",
+    "Height":"25-27 inches (male)/23-25 inches (female)",
+    "Weight":"65-80 pounds (male)/45-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28135356/English-Setter-standing-in-a-field-400x267.jpg"
+  },
+  "English Springer Spaniel":{
+    "Description":"The English Springer Spaniel is a sweet-faced, lovable bird dog of great energy, stamina, and brains. Sport hunters cherish the duality of working Springers: handsome, mannerly pets during the week, and trusty hunting buddies on weekends.",
+    "Characteristics":"friendly / playful / obedient",
+    "Height":"20 inches (male)/19 inches (female)",
+    "Weight":"50 pounds (male)/40 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08110247/English-Springer-Spaniel-On-White-011-400x267.jpg"
+  },
+  "English Toy Spaniel":{
+    "Description":"The merry English Toy Spaniel was bred to be the companion of kings. But ETS are spaniels first and pampered lapdogs second, and beneath the patrician exterior beats the heart of a real doggy dog-bright, loving, and willing to please. The ETS is a square, snub-nosed toy weighing no more than 14 pounds.",
+    "Characteristics":"intelligent / playful / gentle",
+    "Height":"9-10 inches",
+    "Weight":"8-14 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233503/English-Toy-Spaniel-On-White-01-400x267.jpg"
+  },
+  "Entlebucher Mountain Dog":{
+    "Description":"The Entlebucher Mountain Dog, tricolor 'Laughing Dog' of the Swiss Alps, is a rugged and determined mover of cattle. These spirited, energetic workers and athletes are independent problem solvers and are happiest with a job to perform. Entlebucher (ENT-leh-boo-cur) Mountain Dogs are muscular, long-backed cattle dogs standing from 16 to 21 inches at the shoulder.",
+    "Characteristics":"loyal / smart / enthusiastic",
+    "Height":"17-21 inches (male)/16-20 inches (female)",
+    "Weight":"50-65 pounds (male)/40-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01171937/Entlebucher-Mountain-Dog-outdoors-standing-in-a-field-400x267.jpg"
+  },
+  "Estrela Mountain Dog":{
+    "Description":"The Estrela Mountain Dog is not only an excellent livestock guardian, but is also known for his love of children and family. Proper socialization and training as a puppy is very important so that the dominance in the Estrela's personality does not become aggressive. The Estrela Mountain Dog is named for the Estrela Mountains in Portugal and is believed to be the oldest breed in the region.",
+    "Characteristics":"alert / intelligent / brave",
+    "Height":"24.5-29 inches",
+    "Weight":"77-132 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13173254/Beau-400x267.jpg"
+  },
+  "Eurasier":{
+    "Description":"The Eurasier is a medium-sized dog with a thick, medium-long coat that can come in a variety of colors. Confident, calm, and well-balanced, he is loyal to the entire family, but reserved towards strangers. He must live in close contact with his family, as he is not suited to be kept in kennels or tied up outside.",
+    "Characteristics":"confident / calm / family-oriented",
+    "Height":"19-24 inches",
+    "Weight":"40-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28174934/Eurasier.1-400x267.jpg"
+  },
+  "Field Spaniel":{
+    "Description":"The sweet and sensitive Field Spaniel is famously docile, but vigorous and game for anything when at play or in the field. These close cousins to Cocker Spaniels and Springer Spaniels may be small in number, but their charm is enormous. Field Spaniels bear a family resemblance to Cocker, Springer, and Sussex spaniels.",
+    "Characteristics":"sweet / fun-loving / sensitive",
+    "Height":"18 inches (male)/17 inches (female)",
+    "Weight":"35-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/10115409/Field-Spaniels-of-different-colors-sitting-together-outdoors.jpg"
+  },
+  "Finnish Lapphund":{
+    "Description":"The weatherproof Finnish Lapphund is a tough and substantial reindeer herder from north of the Arctic Circle. This remarkably empathetic breed is among the friendliest of all dogs'once he's satisfied that you aren't a reindeer rustler. Finnish Lapphunds, with their luscious coat, sweet spitz-like face, and profusely coated tail that curves over the back, are instantly recognizable as Nordic dogs.",
+    "Characteristics":"alert / friendly / agile",
+    "Height":"18-21 inches (male)/16-19 inches (female)",
+    "Weight":"33-53 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28155707/Finnish-Lapphund-lying-on-a-snow-covered-road-400x267.jpg"
+  },
+  "Finnish Spitz":{
+    "Description":"The lively Finnish Spitz, the flame-colored, foxy-faced breed from the 'Land of 60,000 Lakes,is a small but fearless hunting dog whose unique style of tracking and indicating quarry has earned him the nickname the 'Barking Bird Dog.\n\nThe balanced, squarely symmetrical Finnish Spitz will stand not more than 20 inches at the shoulder and are easily recognized by their foxy face and prick ears projecting a lively expression, and a curving plumed tail. Their dense coat of glorious golden-red which is never monochromatic gives them the Finnish Spitz 'Glow.'Finkies or Finns, as they are nicknamed, move with a bold and brisk gait. \n\nFinkies make excellent alertdogs, wary but not shy with strangers.",
+    "Characteristics":"good-natured / friendly / lively",
+    "Height":"17.5-20 inches (male)/15.5-18 inches (female)",
+    "Weight":"25-33 pounds (male)/20-28 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233256/Finnish-Spitz-On-White-01-400x267.jpg"
+  },
+  "Flat-Coated Retriever":{
+    "Description":"The Peter Pan of the Sporting Group, the forever-young Flat-Coated Retriever is a gundog of relatively recent origin. Happy, self-assured, and willing to please, a good Flat-Coat will retrieve a duck or a show ribbon with equal aplomb. The Flat-Coated Retriever's eponymous flat-lying coat comes in lustrous black or liver, with feathering at the legs and tail.",
+    "Characteristics":"cheerful / optimistic / good-humored",
+    "Height":"23-24.5 inches (male)/22-23.5 inches (female)",
+    "Weight":"60-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02143829/Flat-Coated-Retrievers-sitting-outdoors-400x267.jpg"
+  },
+  "French Bulldog":{
+    "Description":"The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-dog breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible. The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature.",
+    "Characteristics":"playful / smart / adaptable",
+    "Height":"11-13 inches",
+    "Weight":"under 28 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30140354/French-Bulldog-standing-outdoors-400x267.jpg"
+  },
+  "French Spaniel":{
+    "Description":"The French Spaniel is balanced, frank, gentle, calm and docile. He is an enthusiastic hunter, sociable with other dogs and an ideal companion in all circumstances. An excellent pointing dog, he also has a talent for retrieving.",
+    "Characteristics":"intelligent / sociable / gentle",
+    "Height":"21.5-24 inches",
+    "Weight":"50-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27114220/French-Spaniel-Gallery-01-400x267.jpg"
+  },
+  "German Longhaired Pointer":{
+    "Description":"A good way to describe the German Longhaired Pointer is that, in appearance, it's Continental Europe's version of a Setter: a pointing dog with full tail and a long coat with dense guard hairs and a moderate undercoat. One noteworthy difference is the GLP's affection for swimming and, therefore, waterfowl hunting.",
+    "Characteristics":"versatile / calm / family-oriented",
+    "Height":"22-28 inches",
+    "Weight":"55-80 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12210613/German-Longhaired-Pointer-on-White-01-400x267.jpg"
+  },
+  "German Pinscher":{
+    "Description":"The sleek, no-frills German Pinscher is among Germany's oldest breeds and the prototype of other pinscher breeds. This energetic, super-intelligent dog was at first used as a rat catcher but can be trained for all types of canine work. Sleek, shiny, and streamlined, GPs are a true dog lover's delight.",
+    "Characteristics":"intelligent / courageous / vivacious",
+    "Height":"17-20 inches",
+    "Weight":"25-45 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20183655/German-Pinscher-standing-near-a-lake.jpg"
+  },
+  "German Shepherd Dog":{
+    "Description":"Generally considered dogkind's finest all-purpose worker, the German Shepherd Dog is a large, agile, muscular dog of noble character and high intelligence. Loyal, confident, courageous, and steady, the German Shepherd is truly a dog lover's delight. German Shepherd Dogs can stand as high as 26 inches at the shoulder and, when viewed in outline, presents a picture of smooth, graceful curves rather than angles.",
+    "Characteristics":"courageous / confident / smart",
+    "Height":"24-26 inches (male)/22-24 inches (female)",
+    "Weight":"65-90 pounds (male)/50-70 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00-400x267.jpg"
+  },
+  "German Shorthaired Pointer":{
+    "Description":"The versatile, medium-sized German Shorthaired Pointer is an enthusiastic gundog of all trades who thrives on vigorous exercise, positive training, and a lot of love. GSP people call their aristocratic companions the 'perfect pointer.\n\nMale German Shorthaired Pointers stand between 23 and 25 inches at the shoulder and weigh anywhere from 55 to 70 pounds females run smaller.",
+    "Characteristics":"friendly / smart / willing to please",
+    "Height":"23-25 inches (male)/21-23 inches (female)",
+    "Weight":"55-70 pounds (male)/45-60 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232941/German-Shorthaired-Pointer-On-White-07-400x267.jpg"
+  },
+  "German Spitz":{
+    "Description":"The German Spitz is always attentive, lively and exceptionally devoted to his owner. He is very teachable and easy to train. His distrust towards strangers and lack of hunting instinct make him the ideal watchdog for the home.",
+    "Characteristics":"active / devoted / smart",
+    "Height":"8-12 inches (Toy)/ 12-16 inches (Medium)/16-20 inches (Large)",
+    "Weight":"10-11 pounds (Toy)/15-25 pounds (Medium)/30-50 pounds (Large)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24152054/German-Spitz-standing-in-profile-outdoors.jpg"
+  },
+  "German Wirehaired Pointer":{
+    "Description":"With his sporty weatherproof coat and can-do attitude, the noble German Wirehaired Pointer is a versatile, sturdy gundog who thrives on outdoor activity. Around the house, the GWP is an eager, affectionate, and amusing family companion. Standing as high as 26 inches at the shoulder, GWPs are a bit taller and heavier than their close relative, the German Shorthaired Pointer.",
+    "Characteristics":"affectionate / eager / enthusiastic",
+    "Height":"24-26 inches (male)/minimum 22 inches (female)",
+    "Weight":"50-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22105856/German-Wirehaired-Pointer-standing-in-a-green-grassy-field-400x267.jpg"
+  },
+  "Giant Schnauzer":{
+    "Description":"The Giant Schnauzer is a larger and more powerful version of the Standard Schnauzer, and he should, as the breed standard says, \"be a bold and valiant figure of a dog.\" Great intelligence and loyalty make him a stellar worker and companion. A well-bred Giant Schnauzer closely resembles the Standard Schnauzer, only bigger. As their name suggests, Giants are imposing.",
+    "Characteristics":"alert / loyal / trainable",
+    "Height":"25.5-27.5 inches (male)/23.5-25.5 inches (female)",
+    "Weight":"60-85 pounds (male)/55-75 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22112234/Giant-Schanuzer-standing-in-a-field-400x267.jpg"
+  },
+  "Glen of Imaal Terrier":{
+    "Description":"Gentler, less excitable than most terriers, but still bold and spirited, the double-coated Glen of Imaal Terrier is named for one of Ireland's most remote locales. The brave but docile Glen is a strong, no-fuss dog built for hard work. Glens are scruffy, sturdy, low-slung terriers standing no more than 14 inches at the shoulder.",
+    "Characteristics":"spirited / gentle / bold",
+    "Height":"12.5-14 inches",
+    "Weight":"32-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232815/Glen-of-Imaal-Terrier-On-White-01-400x267.jpg"
+  },
+  "Golden Retriever":{
+    "Description":"The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America's most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work. The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name.",
+    "Characteristics":"intelligent / friendly / devoted",
+    "Height":"23-24 inches (male)/21.5-22.5 inches (female)",
+    "Weight":"65-75 pounds (male)/55-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22133117/Golden-Retriever-wading-into-a-lake-400x267.jpg"
+  },
+  "Gordon Setter":{
+    "Description":"The Gordon Setter, the black avenger of the Highlands, is a substantial bird dog named for a Scottish aristocrat. Athletic and outdoorsy, Gordons are bold, confident, and resolute in the field, and sweetly affectionate by the fireside. Gordons are the largest and most substantial of setters'a big male might stand 27 inches at the shoulder and weigh 80 pounds.",
+    "Characteristics":"confident / affectionate / bold",
+    "Height":"24-27 inches (male)/23-26 inches (female)",
+    "Weight":"55-80 pounds (male)/45-70 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28145458/Gordon-Setter.3-400x267.jpg"
+  },
+  "Grand Basset Griffon Vendeen":{
+    "Description":"The Grand Basset Griffon Vend√©en is a French scenthound. Somewhat active and never high-strung, yet GBGVs are busy dogs who don't tire easily. First, let's deal with the name.",
+    "Characteristics":"independent / outgoing / happy",
+    "Height":"15.5-18 inches",
+    "Weight":"40-45 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/31171741/GBGV.2-400x267.jpg"
+  },
+  "Great Dane":{
+    "Description":"The easygoing Great Dane, the mighty \"Apollo of Dogs,\" is a total joy to live with, but owning a dog of such imposing size, weight, and strength is a commitment not to be entered into lightly. This breed is indeed great, but not a Dane. As tall as 32 inches at the shoulder, Danes tower over most other dogs and when standing on their hind legs, they are taller than most people.",
+    "Characteristics":"friendly / patient / dependable",
+    "Height":"30-32 inches (male)/28-30 inches (female)",
+    "Weight":"140-175 pounds (male)/110-140 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12232605/Great-Dane-On-White-01-400x267.jpg"
+  },
+  "Great Pyrenees":{
+    "Description":"The Great Pyrenees is a large, thickly coated, and immensely powerful working dog bred to deter sheep-stealing wolves and other predators on snowy mountaintops. Pyrs today are mellow companions and vigilant guardians of home and family. Frequently described as 'majestic,' Pyrs are big, immensely strong mountain dogs standing as high as 32 inches at the shoulder and often tipping the scales at more than 100 pounds.",
+    "Characteristics":"smart / patient / calm",
+    "Height":"27-32 inches (male)/25-29 inches (female)",
+    "Weight":"100 pounds & up (male)/85 pounds & up (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212201/Great-Pyrenees-on-White-04-400x267.jpg"
+  },
+  "Greater Swiss Mountain Dog":{
+    "Description":"The Greater Swiss Mountain Dog is a large, immensely strong worker famous for a dense coat of striking black, red, and white markings. Dependable and faithful Swissies earned their feed as herders, drafters, and all-around pasture dogs. Greater than what? Well, standing as high as 28.5 inches and weighing as much as a midsize human, a Greater Swiss might easily be greater than you.",
+    "Characteristics":"faithful / family-oriented / dependable",
+    "Height":"25.5-28.5 inches (male)/23.7-27 inches (female)",
+    "Weight":"115-140 pounds (male)/85-110 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25154225/Greater-Swiss-Mountain-Dog-laying-down-in-the-grass-400x267.jpg"
+  },
+  "Greyhound":{
+    "Description":"The champion sprinter of dogdom, the Greyhound is a gentle, noble, and sweet-tempered companion with an independent spirit. For thousands of years these graceful hounds have been an object of fascination for artists, poets, and kings. Greyhounds are the essence of the dog breeder's credo 'Form follows function.' From the narrow, aerodynamic skull to the shock-absorbing pads of the feet, Greyhounds are perfectly constructed for high-speed pursuit.",
+    "Characteristics":"independent / gentle / noble",
+    "Height":"28-30 inches (male)/27-28 inches (female)",
+    "Weight":"65-70 pounds (male)/60-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03144628/Greyhound-running-400x267.jpg"
+  },
+  "Hamiltonstovare":{
+    "Description":"The Hamiltonstovare is a versatile scent hound, bred to hunt hare and fox in Sweden. When not hunting, they can be found in the show ring, as their striking color makes them a stunning show dog. Hamiltons have been used as service dogs in America since the late 90's, where their versatility and close bond with their people shine.",
+    "Characteristics":"versatile / agile / regal",
+    "Height":"19-24 inches",
+    "Weight":"40-75 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20110654/Hamiltonstovare-on-White-011-400x267.jpg"
+  },
+  "Hanoverian Scenthound":{
+    "Description":"The Hanoverian Scenthound has a calm and assured temperament, at the same time sensitive with his handler, and choosy and discerning with strangers. He has high capabilities of concentration in any tracking work with strong loyalty to the hunter in charge. Hailing from Germany, the Hanoverian Scenthound is the Hannoverscher Schweihund in its native language.",
+    "Characteristics":"independent / loyal / calm",
+    "Height":"19-21 inches",
+    "Weight":"79-99 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03190519/Hanoverian-Scenthound.1-400x267.jpg"
+  },
+  "Harrier":{
+    "Description":"The Harrier is a swift, prey-driven pack hound of medium size first bred in medieval England to chase the hare. Outgoing and friendly, the Harrier is much larger than the Beagle but smaller than another close relative, the English Foxhound. Somewhat resembling a Beagle with a gym membership, Harriers are larger, more powerful hounds than their diminutive cousin' but smaller than the English Foxhound, a breed used in their development.",
+    "Characteristics":"friendly / outgoing / people-oriented",
+    "Height":"19-21 inches",
+    "Weight":"45-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22174432/Harrier3-400x267.jpg"
+  },
+  "Havanese":{
+    "Description":"Havanese, the only dog breed native to Cuba, are cheerful little dogs with a spring in their step and a gleam in their big, brown eyes. These vivacious and sociable companions are becoming especially popular with American city dwellers. Distinctive features of the Havanese include a curled-over tail and a gorgeous silky coat, which comes in a variety of colors.",
+    "Characteristics":"intelligent / outgoing / funny",
+    "Height":"8.5-11.5 inches",
+    "Weight":"7-13 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27130852/Havanese-standing-outdoors-400x267.jpg"
+  },
+  "Hokkaido":{
+    "Description":"The Hokkaido is a dog of noteworthy endurance and dignity. His temperament is faithful, docile, very alert and bold. He also shows accurate judgement and great stamina.",
+    "Characteristics":"dignified / alert / devoted",
+    "Height":"18-20 inches",
+    "Weight":"44-66 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30144758/Hokkaido.1-400x267.jpg"
+  },
+  "Hovawart":{
+    "Description":"The Hovawart is a medium-temperament working dog with versatile usage and has a very good nose. He is kind, has an even disposition and protective instinct, is self-confident and has the ability to take stress. His balanced body proportions and special devotion to his family make him an outstanding companion, watch, guard, tracking and rescue-dog.",
+    "Characteristics":"alert / intelligent / faithful",
+    "Height":"23-28 inches",
+    "Weight":"65-90 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02174018/Hovawart.10-400x267.jpg"
+  },
+  "Ibizan Hound":{
+    "Description":"The Ibizan Hound is a lithe and leggy visitor from the dawn of civilization, bred as a rabbit courser on the rocky shores of Spain's Balearic Islands. World-class sprinters and leapers, Ibizans need ample space to air out their engines. Ibizans are lithe and leggy visitors from the dawn of civilization.",
+    "Characteristics":"family-oriented / even-tempered / polite",
+    "Height":"23.5-27.5 inches (male)/22.5-26 inches (female)",
+    "Weight":"50 pounds (male)/45 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25120120/Ibizan-Hound-sitting-in-profile-in-the-desert-400x267.jpg"
+  },
+  "Icelandic Sheepdog":{
+    "Description":"The Icelandic Sheepdog, Iceland's only native dog breed, is a charmingly friendly and faithful all-around herder of small-to-medium size. A densely coated Nordic spitz-type breed, Icelandics are enthusiastically devoted to their humans. Icelandics are one of the 50 or so northern breeds from around the world classified as spitzes.",
+    "Characteristics":"friendly / playful / inquisitive",
+    "Height":"18 inches (male)/16.5 inches (female)",
+    "Weight":"30 pounds (male)/25 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14115933/Icelandic-Sitting-400x267.jpg"
+  },
+  "Irish Red and White Setter":{
+    "Description":"The rollicking Irish Red and White Setter is an athletic medium-sized bird dog bred primarily for hunting. Fun-loving, friendly, and high-spirited, Irish Red and Whites are a bit shorter and stockier than their cousin the Irish Setter. Sportsmen thrill at the sight of a noble Red and White frozen on point, motionless as a statue.",
+    "Characteristics":"courageous / spirited / determined",
+    "Height":"24.5-26 inches (male)/22.5-24 inches (female)",
+    "Weight":"42-60 pounds (male)/35-50 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09104847/Irish-Red-and-White-Setter-stalking-in-a-field-400x267.jpg"
+  },
+  "Irish Setter":{
+    "Description":"The Irish Setter is a high-spirited gundog known for grace, swiftness, and a flashy red coat. They are famously good family dogs: sweet-tempered companions for the folks, and rollicking playmates and tennis-ball fetchers for the children.",
+    "Characteristics":"active / sweet-natured / outgoing",
+    "Height":"27 inches (male)/25 inches (female)",
+    "Weight":"70 pounds (male)/60 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22124811/Irish-Setter-on-point-in-a-field-400x267.jpg"
+  },
+  "Irish Terrier":{
+    "Description":"The Irish Terrier, 'Daredevil' of the Emerald Isle, is a bold, dashing, and courageous terrier of medium size. Known for his fiery red coat and a temperament to match, the Irish Terrier is stouthearted at work and tenderhearted at home. Irish Terriers are the prototype of a long-legged terrier.",
+    "Characteristics":"bold / dashing / tenderhearted",
+    "Height":"18 inches",
+    "Weight":"27 pounds (male)/25 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27230925/Irish-Terriers-sitting-together-400x267.jpg"
+  },
+  "Irish Water Spaniel":{
+    "Description":"The tallest of the AKC's spaniels, the Irish Water Spaniel is instantly recognizable by its crisply curled coat and tapering 'rat tail.' Among the champion swimmers of dogdom, the alert and inquisitive IWS is hardworking and brave in the field, and playfully affectionate at home. This tallest of AKC spaniels, standing 21 to 24 inches at the shoulder and weighing 55 to 65 pounds, straddles the line between 'medium' and 'large' dogs on our scale of size. Among its distinguishing characteristics are a crisply curled, liver-colored, waterproof coat",
+    "Characteristics":"playful / hardworking / brave",
+    "Height":"22-24 inches (male)/21-23 inches (female)",
+    "Weight":"55-68 pounds (male)/45-58 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231921/Irish-Water-Spaniel-On-White-01-400x267.jpg"
+  },
+  "Irish Wolfhound":{
+    "Description":"The calm, dignified, and kindly Irish Wolfhound is the tallest of all AKC breeds. Once fearless big-game hunters capable of dispatching a wolf in single combat, Wolfhounds today are the most serene and agreeable of companions. The amiable Irish Wolfhound is an immense, muscular hound gracefully built along classic Greyhound lines, capable of great speed at the gallop.",
+    "Characteristics":"dignified / courageous / calm",
+    "Height":"32 inches minimum (male)/30 inches minimum (female)",
+    "Weight":"120 pounds (male)/105 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03161220/Irish-Wolfhound-standing-in-a-field-400x267.jpg"
+  },
+  "Italian Greyhound":{
+    "Description":"A true Greyhound in miniature, the elegant Italian Greyhound is an alert, playful, and highly affectionate toy companion. IGs make decorative couch dogs, but at heart they are flash-and-dash coursing hounds with an instinct for pursuit. IGs are Greyhounds in miniature'more slender, but a Greyhound's equal in grace and elegance.",
+    "Characteristics":"alert / playful / sensitive",
+    "Height":"13-15 inches",
+    "Weight":"7-14 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20155017/Two-Italian-Greyhounds-400x267.jpg"
+  },
+  "Jagdterrier":{
+    "Description":"Also known as the Deutscher Jagdterrier, the Jagdterrier is courageous, enduring, vital, full of temperament, reliable, sociable and trainable. He always takes pleasure in his work. The Jagdterrier is a versatile hunting dog from Germany.",
+    "Characteristics":"intelligent / courageous / hardworking",
+    "Height":"13-16 inches",
+    "Weight":"17-22 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/23184645/Jagdterrier.4-400x267.jpg"
+  },
+  "Japanese Akitainu":{
+    "Description":"Descending from regional hunting dogs, the Japanese Akitainu was initially restored and preserved by dedicated breeders in the Akitainu Hozonkai (Akita Dog Preservation Society AKIHO). The breed is known for its striking appearance and its physical and mental agility.",
+    "Characteristics":"dignified / alert / aloof",
+    "Height":"25-27.5 inches (male)/22.5-25 inches (female)",
+    "Weight":"65-75 pounds (male)/55-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/11/07124019/Japanese-Akitainu-standing-in-the-forest-400x267.jpg"
+  },
+  "Japanese Chin":{
+    "Description":"The Japanese Chin is a charming toy companion of silky, profuse coat and an unmistakably aristocratic bearing. Often described as a distinctly 'feline' breed, this bright and amusing lapdog is fastidious, graceful, and generally quiet. Chin are the unrivaled noblemen of Japanese breeds.",
+    "Characteristics":"charming / loving / noble",
+    "Height":"8-11 inches",
+    "Weight":"7-11 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20164850/Japanese-Chin-standing-outdoors-400x267.jpg"
+  },
+  "Japanese Spitz":{
+    "Description":"The Japanese Spitz are little comedians who want to make you happy and laugh. They are very loyal and smart and make wonderful companions. Game for adventures, they will tag along on a hike, a car ride, or a trip to the beach or lake.",
+    "Characteristics":"loyal, playful, smart",
+    "Height":"12-15 inches",
+    "Weight":"10-25 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/06/28104840/Japanese-Spitz.4-400x267.jpg"
+  },
+  "Japanese Terrier":{
+    "Description":"Japanese Terriers are a small, highly intelligent breed full of terrier temperaments. They are independent, active, crisp, and lively. As one-person dogs, they are often reserved with strangers.",
+    "Characteristics":"reserved / independent / curious",
+    "Height":"10-13 inches",
+    "Weight":"10-12 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/12/22144751/Japanese-Terrier-standing-in-three-quarter-view-400x267.jpg"
+  },
+  "Jindo":{
+    "Description":"Loyal, watchful, and intelligent, the Jindo developed as a breed on an island off the coast of South Korea. Medium-sized and natural in appearance, they are valued as independent hunters, discerning guardians, and loyal companions. The Jindo Dog is a well-proportioned, medium-sized dog used for hunting and guarding.",
+    "Characteristics":"alert / loyal / intelligent",
+    "Height":"19-22 inches (male)/17-20 inches (female)",
+    "Weight":"40-50 pounds( (male)/30-40 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17181925/Jindo-standing-in-the-yard-400x267.jpg"
+  },
+  "Kai Ken":{
+    "Description":"The Kai Ken is a medium-sized dog and is one of the six native Japanese breeds. Traditionally used to hunt a wide range of game in the mountains of Japan, the Kai Ken is considered a rare breed even in Japan. The Kai is highly intelligent and learns quickly.",
+    "Characteristics":"loyal / intelligent / agile",
+    "Height":"18.5-19.5 inches (male)/15.5-17 inches (female)",
+    "Weight":"30-40 pounds (male)/25-35 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04173549/Kai-Ken-standing-in-profile-outdoors.jpg"
+  },
+  "Karelian Bear Dog":{
+    "Description":"The Karelian Bear Dog is an eager hunter and very independent, yet works cooperatively to mark game by barking. Their senses, especially smell, are sharp, thus the breed is suitable for big game hunting. They have a very good sense of direction, are balanced, courageous and persistent.",
+    "Characteristics":"independent / loyal / courageous",
+    "Height":"19-23.5 inches",
+    "Weight":"44-49 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04224543/Karelian-Bear-Dog-400x267.jpg"
+  },
+  "Keeshond":{
+    "Description":"The amiable Keeshond is a medium-sized spitz dog of ample coat, famous for the distinctive \"spectacles\" on his foxy face. Once a fixture on the canal barges of his native Holland, the Kees was, and remains, a symbol of Dutch patriotism. These square, sturdy companions descend from the same ancient stock as other spitz types, such as Pomeranians and Samoyeds.",
+    "Characteristics":"friendly / lively / outgoing",
+    "Height":"18 inches (male)/17 inches (female)",
+    "Weight":"35-45 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28142535/Keeshond-exploring-in-the-backyard-400x267.jpg"
+  },
+  "Kerry Blue Terrier":{
+    "Description":"Among the largest of AKC terriers, the Kerry Blue Terrier is famous for his show-stopping blue coat. Named for the Irish county of his birth, this onetime farm dog is today an alert, adaptable, and animated watchdog and family companion. Of course, we begin with the show-stopping coat that turns heads wherever Kerries go.",
+    "Characteristics":"alert / smart / people-oriented",
+    "Height":"18-19.5 inches (male)/17.5-19 inches (female)",
+    "Weight":"33-40 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28183206/Kerry-Blue-Terrier-standing-stacked-outdoors-400x267.jpg"
+  },
+  "Kishu Ken":{
+    "Description":"The Kishu Ken is a dog of noteworthy endurance, showing nobility, dignity and naive feeling. His temperament is faithful, docile and very alert. The Kishu Ken is a large game hound used in the densely forested mountains of Japan.",
+    "Characteristics":"alert / good-natured / confident",
+    "Height":"19-22 inches",
+    "Weight":"30-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29120141/Kishu-Ken-standing-in-the-brush-at-sunset.jpg"
+  },
+  "Komondor":{
+    "Description":"A powerfully large Hungarian flock guardian covered in profuse white cords from head to tail, the Komondor is among the world's most recognizable breeds. The independent and protective Kom requires a firm, experienced hand at training. Our Hungarian-language tip of the day:",
+    "Characteristics":"dignified / loyal / brave",
+    "Height":"27.5 minimum inches (male)/25.5 minimum inches (female)",
+    "Weight":"100 pounds or more (male)/80 pounds or more (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03233449/Komondor-standing-in-the-park-400x267.jpg"
+  },
+  "Kromfohrlander":{
+    "Description":"The Kromfohrlander is a medium-sized companion breed that is sensitive, loving and loyal to its owners. He has a distinctive 'smile' and will sneeze to greet you. Pronunciation of the breed is \"krome-for-lahn-dair.\"\n\nThe Kromfohrlander is a very intelligent, funny, agile dog which loves to climb and jump and easily excels at agility and dog-trick training but can be fussy with food.",
+    "Characteristics":"intelligent / active / sensitive",
+    "Height":"15-18 inches",
+    "Weight":"20-35 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07133650/Kromfohrlander.6-400x267.jpg"
+  },
+  "Kuvasz":{
+    "Description":"The snow-white Kuvasz is Hungary's majestic guardian of flocks and companion of kings. A working dog of impressive size and strength, the imposing and thickly coated Kuvasz is a beautiful, smart, profoundly loyal, but challenging breed. Imposing, impressive, majestic, massive, mighty, pick the adjective you like best, they all apply to the Kuvasz (pronounced KOO-vahz)",
+    "Characteristics":"loyal / fearless / sweet",
+    "Height":"28-30 inches (male)/26-28 inches (female)",
+    "Weight":"100-115 pounds (male)/70-90 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/05132204/Kuvasz-standing-outdoors-400x267.jpg"
+  },
+  "Labrador Retriever":{
+    "Description":"The sweet-faced, lovable Labrador Retriever is America's most popular dog breed. Labs are friendly, outgoing, and high-spirited companions who have more than enough affection to go around for a family looking for a medium-to-large dog. The sturdy, well-balanced Labrador Retriever can, depending on the sex, stand from 21.5 to 24.5 inches at the shoulder and weigh between 55 to 80 pounds.",
+    "Characteristics":"active / friendly / outgoing",
+    "Height":"22.5-24.5 inches (male)/21.5-23.5 inches (female)",
+    "Weight":"65-80 pounds (male)/55-70 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29150201/Labrador-Retrievers-three-colors-400x267.jpg"
+  },
+  "Lagotto Romagnolo":{
+    "Description":"The Lagotto Romagnolo, Italy's adorable 'truffle dog,' sports a curly coat and lavish facial furnishings. Despite their plush-toy looks, Lagotti are durable workers of excellent nose who root out truffles, a dainty and pricey delicacy. Italians have a word for it:",
+    "Characteristics":"affectionate / keen / undemanding",
+    "Height":"17-19 inches (male)/16-18 inches (female)",
+    "Weight":"28.5-35 pounds (male)/24-31 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04123313/Lagotto-Romagnolo-standing-by-a-pond-400x267.jpg"
+  },
+  "Lakeland Terrier":{
+    "Description":"A bold, zesty \"big dog in a small package,\" the Lakeland Terrier, named for the Lake District of his native England, was once a farmer's dog bred to work in packs on sheep-stealing foxes. The Lakie's coat is hard, wiry, and low-shedding. Square and sturdy Lakelands, standing less than 15 inches at the shoulder and weighing about 17 pounds, are small dogs.",
+    "Characteristics":"friendly / confident / bold",
+    "Height":"14.5-15 inches (male)",
+    "Weight":"17 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30180513/Lakeland-Terrier-standing-stacked-outdoors-400x267.jpg"
+  },
+  "Lancashire Heeler":{
+    "Description":"The Lancashire Heeler is a medium to high energy dog. Intelligent, alert and friendly, they are quick to learn new tasks. A sturdy little dog with a short, weather-resistant coat of black and tan or liver and tan, they are affectionate with their owners, always happy, talkative and always ready for a walk.",
+    "Characteristics":"intelligent / versatile / affectionate",
+    "Height":"10-12 inches",
+    "Weight":"9-17 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30165210/Lancashire-heeler.1-400x267.jpg"
+  },
+  "Lapponian Herder":{
+    "Description":"The Lapponian Herder is a medium-sized dog with a medium coat, making them easy to maintain and perfect for any experienced dog owner. They are a wonderful, rounded, diversified dog breed ready to problem solve any task given to them. They can fit into most living environments as long as they are given jobs to do.",
+    "Characteristics":"intelligent / friendly / energetic",
+    "Height":"18-20 inches",
+    "Weight":"70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19120325/Lapponian-Herders-standing-together-in-the-shallows.jpg"
+  },
+  "Leonberger":{
+    "Description":"The Leonberger is a lush-coated giant of German origin. They have a gentle nature and serene patience and they relish the companionship of the whole family. A huge and powerful dog, yes, but the Leonberger is also known for his aristocratic grace and elegance.",
+    "Characteristics":"friendly / playful / gentle",
+    "Height":"28-31.5 inches (male)/25.5-29.5 inches (female)",
+    "Weight":"110-170 pounds (male)/90-140 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01000610/Leonberger-standing-in-a-field-400x267.jpg"
+  },
+  "Lhasa Apso":{
+    "Description":"The lavishly coated Lhasa Apso is a thousand-year-old breed who served as sentinels at palaces and monasteries isolated high in the Himalayas. Smart, confident, and complex, Lhasas are family comedians but regally aloof with strangers. Standing less than a foot high at the shoulder, Lhasas are small but hardy dogs of aristocratic bearing.",
+    "Characteristics":"confident / smart / comical",
+    "Height":"10-11 inches (male)",
+    "Weight":"12-18 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231104/Lhasa-Apso-On-White-01-400x267.jpg"
+  },
+  "Lowchen":{
+    "Description":"A companion dog whose name is German for 'little lion,' the L√∂wchen has been a popular pet among Continental Europeans for more than 500 years. The portable, non-shedding L√∂wchen is said to be affectionate, lively, and brave as a lion. Small dogs with enormous heart, L√É∂wchen (the same singular or plural) stand a bit over a foot tall at the shoulder.",
+    "Characteristics":"affectionate / outgoing / positive",
+    "Height":"12-14 inches",
+    "Weight":"15 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25120641/Lowchen-at-the-AKC-National-Championship-presented-by-Royal-Canin-400x267.jpg"
+  },
+  "Maltese":{
+    "Description":"The tiny Maltese, 'Ye Ancient Dogge of Malta,' has been sitting in the lap of luxury since the Bible was a work in progress. Famous for their show-stopping, floor-length coat, Maltese are playful, charming, and adaptable toy companions. Maltese are affectionate toy dogs weighing less than seven pounds, covered by a long, straight, silky coat.",
+    "Characteristics":"playful / charming / gentle",
+    "Height":"7-9 inches",
+    "Weight":"under 7 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08152421/Maltese-laying-down-in-a-chair-400x267.jpg"
+  },
+  "Manchester Terrier (Standard)":{
+    "Description":"The Manchester Terrier is named after the English city where it was first bred. Sleek, racy dogs who possess a terrier's ratting instinct and the graceful contours of coursing hounds, Manchesters are spirited, bright, and athletic. They combine the streamlined grace of a coursing hound and the instincts of a fearless rat terrier.",
+    "Characteristics":"bright / spirited / keenly observant",
+    "Height":"15-16 inches",
+    "Weight":"12-22 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01152158/Manchester-Terrier-Standard-on-White-08-400x267.jpg"
+  },
+  "Manchester Terrier (Toy)":{
+    "Description":"The Manchester Terrier is named after the English city where it was first bred. Sleek, racy dogs who possess a terrier's ratting instinct and the graceful contours of coursing hounds, Manchesters are spirited, bright, and athletic. They combine the streamlined grace of a coursing hound and the instincts of a fearless rat terrier.",
+    "Characteristics":"intelligent / agile / spirited",
+    "Height":"10-12 inches",
+    "Weight":"under 12 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/04/26221428/Manchester-Terrier-Slide-01-400x267.jpg"
+  },
+  "Mastiff":{
+    "Description":"The colossal Mastiff belongs to a canine clan as ancient as civilization itself. A massive, heavy-boned dog of courage and prodigious strength, the Mastiff is docile and dignified but also a formidable protector of those they hold dear. For the uninitiated, a face-to-face encounter with these black-masked giants can be startling.",
+    "Characteristics":"dignified / good-natured / courageous",
+    "Height":"30 inches & up (male)/27.5 inches & up (female)",
+    "Weight":"160-230 pounds (male)/120-170 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230849/Mastiff-On-White-03-400x267.jpg"
+  },
+  "Miniature American Shepherd":{
+    "Description":"The Miniature American Shepherd resembles a small Australian Shepherd. True herders in spite of their compact size, Minis are bright, self-motivated workers and endearingly loyal and lively companion dogs who have an affinity for horses. The Miniature American Shepherd shares many physical traits with its forebear the Australian Shepherd'only on a smaller scale.",
+    "Characteristics":"intelligent / good-natured / devoted",
+    "Height":"14-18 inches (male)/13-17 inches (female)",
+    "Weight":"20-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230829/Miniature-American-Shepherd-On-White-01-400x267.jpg"
+  },
+  "Miniature Bull Terrier":{
+    "Description":"In most every way the Miniature Bull Terrier is a Bull Terrier, only smaller. These upbeat, mischievous dogs come equipped with terrier fire and fearlessness. If ever a dog could claim the title 'Clown Prince of Dogdom,' it's the Mini.",
+    "Characteristics":"upbeat / mischievous / comical",
+    "Height":"10-14 inches",
+    "Weight":"18-28 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09231807/Miniature-Bull-Terrier-standing-outdoors-400x267.jpg"
+  },
+  "Miniature Pinscher":{
+    "Description":"The leggy Miniature Pinscher is known to fans as the 'King of Toys.' This proud, fearless, fun-loving toy breed of lustrous coat and a compact, wedge-shaped physique is a true personality dog, known for a high-stepping 'hackney' gait. Min Pins are sturdy, compact dogs standing no more than 12.5 inches at the shoulder. The smooth, shiny coat comes in two shades of solid red, or chocolate-and-rust or black-and-rust.",
+    "Characteristics":"fearless / proud / fun-loving",
+    "Height":"10-12.5 inches",
+    "Weight":"8-10 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/10114051/Miniature-Pinscher-standing-in-three-quarter-view-400x267.jpg"
+  },
+  "Miniature Schnauzer":{
+    "Description":"The Miniature Schnauzer, the smallest of the three Schnauzer breeds, is a generally healthy, long-lived, and low-shedding companion. Add an outgoing personality, a portable size, and sporty good looks, and you've got an ideal family dog. Stocky, robust little dogs standing 12 to 14 inches, Miniature Schnauzers were bred down from their larger cousins, Standard Schnauzers.",
+    "Characteristics":"friendly / smart / obedient",
+    "Height":"12-14 inches",
+    "Weight":"11-20 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230713/Miniature-Schnauzer-On-White-01-400x267.jpg"
+  },
+  "Mountain Cur":{
+    "Description":"The Mountain Cur is a hunting dog with a good treeing instinct. It is a very courageous fighter and extremely intelligent, doing whatever job its master desires. The dogs were a crucial part of the cultures of early pioneers, settlers, and homesteaders.",
+    "Characteristics":"intelligent / reserved with strangers / strong-willed",
+    "Height":"18-26 inches (male)/16-24 incches (female)",
+    "Weight":"30-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12191148/Mountain-Cur-MP-400x267.jpg"
+  },
+  "Mudi":{
+    "Description":"The Mudi is an extremely versatile, intelligent, alert, agile, all-purpose Hungarian farm dog. His courage is useful for working the most stubborn livestock. The breed is a loyal protector of property and family members without being overly aggressive.",
+    "Characteristics":"loyal / intelligent / active",
+    "Height":"15-18.5 inches",
+    "Weight":"18-29 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03140458/Mudi-sitting-outdoors.jpg"
+  },
+  "Neapolitan Mastiff":{
+    "Description":"The Neapolitan Mastiff is a huge, powerful guarder whose astounding appearance has intimidated intruders since the days of ancient Rome. Wary with strangers, the profusely wrinkled Mastino is sweet, placid, and steady among loved ones. Unless you've been to Jurassic Park, you've never seen anything like a Mastino.",
+    "Characteristics":"dignified / loyal / watchful",
+    "Height":"26-31 inches (male)/24-29 inches (female)",
+    "Weight":"150 pounds (male)/110 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2009/01/26133242/Neapolitan-Mastiff-on-lead-standing-in-the-grass-outdoors.20190813025752970-400x267.jpg"
+  },
+  "Nederlandse Kooikerhondje":{
+    "Description":"The Nederlandse Kooikerhondje is lively, agile, self-confident, good-natured and alert. The breed is faithful, easy-going and friendly in the home. Outdoors he is a true sporting dog being keen, swift, tough, attentive and energetic.",
+    "Characteristics":"alert / friendly / quick",
+    "Height":"15-16 inches",
+    "Weight":"20-30 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/01/12194816/Nederlandse-Kooikerhondje-Field-400x267.jpg"
+  },
+  "Newfoundland":{
+    "Description":"The massive Newfoundland is a strikingly large, powerful working dog of heavy bone and dignified bearing. The sweet-tempered Newfie is a famously good companion and has earned a reputation as a patient and watchful 'nanny dog' for kids. A male Newfoundland can weigh up to 150 pounds and stand 28 inches at the shoulder",
+    "Characteristics":"devoted / sweet / patient",
+    "Height":"28 inches (average male)/26 inches (average female)",
+    "Weight":"130-150 pounds (male)/100-120 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20135244/Newfoundland-standing-outdoors-400x267.jpg"
+  },
+  "Norfolk Terrier":{
+    "Description":"Norfolk Terriers are little, cute, and loyal, and they will gladly curl up in your lap, but don't dare call them lapdogs. Norfolks, despite their toyish qualities, are genuine terriers'feisty, confident, sturdy, and game for adventure. Norfolk Terriers are among the smallest working terriers, standing no higher than 10 inches at the shoulder.",
+    "Characteristics":"alert / fearless / fun-loving",
+    "Height":"9-10 inches",
+    "Weight":"11-12 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15104735/Norfolk-Terrier-sitting-in-the-grass.1-400x267.jpg"
+  },
+  "Norrbottenspets":{
+    "Description":"The Norrbottenspets is a small, slightly rectangular spitzdog, well poised, with sinewy and well-developed muscles. Alert with head carried high, they have a fearless attitude and are extremely agile. They are calm, keen, and attentive, with a kind disposition.",
+    "Characteristics":"fearless / agile / attentive",
+    "Height":"16.5-18 inches",
+    "Weight":"20-30 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230431/Norrbottenspets-On-White-01-400x267.jpg"
+  },
+  "Norwegian Buhund":{
+    "Description":"The densely coated Nowegian Buhund, a Nordic spitz-type closely associated with the Vikings, is a medium-sized cold-weather worker adept at herding and guarding. As family dogs, Buhunds are smart, affectionate, and steadfastly devoted. The Buhund, a prototypical spitz, provides a good opportunity to explain the term.",
+    "Characteristics":"confident / smart / perceptive",
+    "Height":"17-18.5 inches (male)/16-17.5 inches (female)",
+    "Weight":"31-40 pounds (male)/26-35 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230414/Norwegian-Buhund-On-White-01-400x267.jpg"
+  },
+  "Norwegian Elkhound":{
+    "Description":"The Norwegian Elkhound is a robust spitz type known for his lush silver-gray coat and dignified but friendly demeanor. The durable Elkhound is among Europe's oldest dogs. They sailed with the Vikings and figure in Norse art and legend.",
+    "Characteristics":"friendly / confident / dependable",
+    "Height":"20.5 inches (male)/19.5 inches (female)",
+    "Weight":"55 pounds (male)/48 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03123918/Norwegian-Elkhound-sitting-in-the-snow-looking-back-over-its-shoulder-400x267.jpg"
+  },
+  "Norwegian Lundehund":{
+    "Description":"From Norway's rocky island of Vaeroy, the uniquely constructed Norwegian Lundehund is the only dog breed created for the job of puffin hunting. With puffins now a protected species, today's Lundehund is a friendly, athletic companion. At a glance, Lundehunds seem a typical northern breed:",
+    "Characteristics":"alert / loyal / energetic",
+    "Height":"13-15 inches (male)/12-14 inches (female)",
+    "Weight":"20-30 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230304/Norwegian-Lundehund-On-White-03-400x267.jpg"
+  },
+  "Norwich Terrier":{
+    "Description":"Norwich Terriers are plucky little earthdogs named for their hometown in England. The old cliche \"a big dog in a small package\" was coined for breeds like the Norwich, who can be oblivious to the fact that they are just 10 inches tall. Standing no more than 10 inches at the shoulder and weighing about 12 pounds, Norwich are among the smallest working terriers.",
+    "Characteristics":"alert / curious / loyal / affectionate / gregarious",
+    "Height":"10 inches",
+    "Weight":"12 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11234249/Norwich-Terrier-standing-outdoors-400x267.jpg"
+  },
+  "Nova Scotia Duck Tolling Retriever":{
+    "Description":"The smallest of the AKC's retrievers, the Nova Scotia Duck Tolling Retriever is intelligent, affectionate, and eager to please. Play fetch with a tireless Toller until your right arm falls off, and he will ask you to throw left-handed. The little gundog with the big name is the smallest AKC retriever, standing ideally 18 or 19 inches at the shoulder.",
+    "Characteristics":"intelligent / affectionate / outgoing",
+    "Height":"18-21 inches (male)/17-20 inches (female)",
+    "Weight":"35-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212940/Nova-Scotia-Duck-Tolling-Retriever-slide1-400x267.jpg"
+  },
+  "Old English Sheepdog":{
+    "Description":"The Old English Sheepdog is the archetypical shaggy dog, famous for his profuse coat and peak-a-boo hairdo, a distinctive bear-like gait, and a mellow, agreeable nature. The OES is a big, agile dog who enjoys exploring and a good romp. Beneath the Old English Sheepdog's profuse double coat is a muscular and compact drover, with plenty of bone and a big rump, standing 21 or 22 inches at the shoulder.",
+    "Characteristics":"smart / gentle / adaptable",
+    "Height":"22 inches & up (male)/21 inches & up (female)",
+    "Weight":"60-100 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212937/Old-English-Sheepdogs-on-white-02-400x267.jpg"
+  },
+  "Otterhound":{
+    "Description":"Big, boisterous, and affectionate, the Otterhound was bred in medieval England for the now-outlawed activity of otter hunting. This scarce breed is known for his dense shaggy coat, webbed feet, acute sense of smell, and affinity for swimming. These big, bouncy hounds were ideally suited for otter hunting.",
+    "Characteristics":"even-tempered / amiable / boisterous",
+    "Height":"27 inches (male)/24 inches (female)",
+    "Weight":"115 pounds (male)/80 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230108/Otterhound-On-White-03-400x267.jpg"
+  },
+  "Papillon":{
+    "Description":"The quick, curious Papillon is a toy dog of singular beauty and upbeat athleticism. Despite his refined appearance, the Pap is truly a 'doggy dog' blessed with a hardy constitution. Papillon fanciers describe their breed as happy, alert, and friendly.",
+    "Characteristics":"alert / friendly / happy",
+    "Height":"8-11 inches",
+    "Weight":"5-10 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230042/Papillon-On-White-01-400x267.jpg"
+  },
+  "Parson Russell Terrier":{
+    "Description":"The Parson Russell Terrier is a bold and clever terrier, swift enough to run with horses and fearless enough to dig in and flush a fox from his lair. Independent problem solvers, PRTs can have their own ideas on how to go about things. PRTs stand 12'15 inches at the shoulder, and weigh 13'17 pounds when in peak condition.",
+    "Characteristics":"friendly / clever / athletic",
+    "Height":"14 inches (male)/13 inches (female)",
+    "Weight":"13-17 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13124139/Parson-Russell-Terrier-standing-in-three-quarter-view-on-a-white-background-400x267.jpg"
+  },
+  "Pekingese":{
+    "Description":"The Pekingese, a compact toy companion of regal bearing and a distinctive rolling gait, is one of several breeds created for the ruling classes of ancient China. These are sophisticated dogs of undying loyalty and many subtle delights. Pekingese are compact, stocky toy dogs weighing up to 14 pounds.",
+    "Characteristics":"loyal / affectionate / regal in manner",
+    "Height":"6-9 inches",
+    "Weight":"up to 14 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13153305/Pekingese-standing-in-the-grass-400x267.jpg"
+  },
+  "Pembroke Welsh Corgi":{
+    "Description":"Among the most agreeable of all small housedogs, the Pembroke Welsh Corgi is a strong, athletic, and lively little herder who is affectionate and companionable without being needy. They are one the world's most popular herding breeds. At 10 to 12 inches at the shoulder and 27 to 30 pounds, a well-built male Pembroke presents a big dog in a small package.",
+    "Characteristics":"alert / affectionate / smart",
+    "Height":"10-12 inches",
+    "Weight":"up to 30 pounds (male)/up to 28 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14112506/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall-400x267.jpg"
+  },
+  "Perro de Presa Canario":{
+    "Description":"The Perro de Presa Canario has a calm appearance and attentive expression. He is especially suited to guarding and traditionally used for herding cattle. A moderately large-sized molossoid, with a rectilinear profile and black mask, the Perro de Presa Canario is robust and well-proportioned.",
+    "Characteristics":"strong-willed / confident / calm",
+    "Height":"22-26 inches",
+    "Weight":"84-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02200433/Perro-de-Presa-Canario.1-400x267.jpg"
+  },
+  "Peruvian Inca Orchid":{
+    "Description":"Agile, smart and swift, the Peruvian Inca Orchid is an elegant sighthound that developed in Peru. The breed can be hairless or coated, and comes in three sizes: small, medium and large.",
+    "Characteristics":"loyal / affectionate / noble",
+    "Height":"9.75-15.75 inches (small) 15.75-19.75 inches (medium) 19.75-25.75 inches (large)",
+    "Weight":"8.5-17.5 pounds (small) 17.5-26.5 pounds (medium) 26.5-55 pounds (large)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29133522/Peruvian-Inca-Orchid-04-400x267.jpg"
+  },
+  "Petit Basset Griffon Vendeen":{
+    "Description":"The low-slung, shaggy-coated Petit Basset Griffon Vend√©en is a vivacious French rabbit-hunting hound known for a happy demeanor and durable constitution. Bred to work in a pack, PBGVs enjoy company and do well with other dogs and kids. A loose translation of the name describes the dog well:",
+    "Characteristics":"alert / happy / vivacious",
+    "Height":"13-15 inches",
+    "Weight":"25-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12212335/Petit-Basset-Griffon-Vendeen-On-White-03-400x267.jpg"
+  },
+  "Pharaoh Hound":{
+    "Description":"The Pharaoh Hound, ancient \"Blushing Dog\" of Malta, is an elegant but rugged sprinting hound bred to course small game over punishing terrain. Quick and tenacious on scent, these friendly, affectionate hounds settle down nicely at home. Pharaohs are sleek, aerodynamic coursing hounds bred for high-speed pursuit on rocky terrain.",
+    "Characteristics":"friendly / smart / noble",
+    "Height":"23-25 inches (male)/21-24 inches (female)",
+    "Weight":"45-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27120041/Pharaoh-Hound-laying-down-in-profile-400x267.jpg"
+  },
+  "Plott":{
+    "Description":"The Plott, a hound with a curious name and a unique history, is a rugged, relentless hunting dog who is a mellow gentleman at home but fearless, implacable, and bold at work. This eye-catching scenthound is North Carolina's state dog. The hound with the curious name (we'll get to that) and unique history (we'll get to that, too) is a streamlined, long-tailed, light-footed hunter standing as high as 25 inches at the shoulder.",
+    "Characteristics":"alert / loyal / intelligent",
+    "Height":"20-25 inches (male)/20-23 inches (female)",
+    "Weight":"50-60 pounds (male)/40-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30140443/IMG_8947-400x267.jpg"
+  },
+  "Pointer":{
+    "Description":"The Pointer is the ultimate expression of canine power and grace. The breed's name is its job description: Pointers point game birds, and they have been pointing for centuries.",
+    "Characteristics":"loyal / hardworking / even-tempered",
+    "Height":"25-28 inches (male)/23-26 inches (female)",
+    "Weight":"55-75 pounds (male)/45-65 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/31182317/Pointer.4-400x267.jpg"
+  },
+  "Polish Lowland Sheepdog":{
+    "Description":"A shaggy-coated herding dog who thrives on exercise and hard work, the Polish Lowland Sheepdog is clever, confident, and a bit stubborn. Compact, alert, and adaptable, they are beloved companions and watchdogs of Polish city dwellers. First, about that nickname:",
+    "Characteristics":"confident / lively / clever",
+    "Height":"18-20 inches (male)/17-19 inches (female)",
+    "Weight":"30-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225658/Polish-Lowland-Sheepdog-On-White-02-400x267.jpg"
+  },
+  "Pomeranian":{
+    "Description":"The tiny Pomeranian, long a favorite of royals and commoners alike, has been called the ideal companion. The glorious coat, smiling, foxy face, and vivacious personality have helped make the Pom one of the world's most popular toy breeds. The Pomeranian combines a tiny body (no more than seven pounds) and a commanding big-dog demeanor.",
+    "Characteristics":"inquisitive / lively / bold",
+    "Height":"6-7 inches",
+    "Weight":"3-7 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225627/Pomeranian-On-White-01-400x267.jpg"
+  },
+  "Poodle (Miniature)":{
+    "Description":"Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdom's true aristocrats. Beneath the curly, hypoallergenic coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties:",
+    "Characteristics":"active / proud / very smart",
+    "Height":"10-15 inches",
+    "Weight":"10-15 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225548/Poodle-On-White-01-400x267.jpg"
+  },
+  "Poodle (Standard)":{
+    "Description":"Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdoms true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties:",
+    "Characteristics":"active / proud / very smart",
+    "Height":"over 15 inches (standard)",
+    "Weight":"60-70 pounds (male standard)/40-50 pounds (female standard)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24134701/Standard-Poodle-standing-outdoors-at-the-beach.jpg"
+  },
+  "Poodle (Toy)":{
+    "Description":"Despite his diminutive size, the Toy Poodle stands proudly among dogdoms true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties:",
+    "Characteristics":"intelligent / agile / self-confident",
+    "Height":"No more than 10 inches",
+    "Weight":"4-6 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/04/01104119/Toy-Poodle-on-White-02-400x267.jpg"
+  },
+  "Porcelaine":{
+    "Description":"The Porcelaine is elegant, energetic, and a fierce hunter he is used for small game, driving it to waiting guns. He is very fond of his owners, family, friends and children and he loves to take part in all family activities.",
+    "Characteristics":"independent / energetic / powerful",
+    "Height":"22-23 inches",
+    "Weight":"55-62 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02202853/Porcelaine.4-400x267.jpg"
+  },
+  "Portuguese Podengo":{
+    "Description":"Portuguese Podengos are lively, agile, playful, alert, highly intelligent but not always easy to train, independent yet loving with the family and sometimes suspicious of strangers. The breed's two sizes have different jobs: the larger hunts deer and boar and the medium-sized hunts rabbit.",
+    "Characteristics":"alert / independent / intelligent",
+    "Height":"22-28 inches (large) 16-22 inches (medium)",
+    "Weight":"44-66 pounds (large) 35-44 pounds (medium)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13231716/Portuguese-Podengo-standing-in-three-quarter-view-400x267.jpg"
+  },
+  "Portuguese Podengo Pequeno":{
+    "Description":"Classified as a hound, the alert and playful little Portuguese Podengo Pequeno is a quick, athletic rabbit hunter of ancient lineage. Pequenos love to run, romp, and chase when outdoors but make charming and well-mannered housemates. The Pequeno is the smallest of Portugal's three Podengo breeds, standing 8 to 12 inches at the shoulder and weighing no more than 13 pounds.",
+    "Characteristics":"playful / charming / lively",
+    "Height":"8-12 inches",
+    "Weight":"9-13 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/21133457/PPP-on-white-400x267.jpg"
+  },
+  "Portuguese Pointer":{
+    "Description":"The Portuguese Pointer is a very old hunting breed bred to work closely with its handler. They are enthusiastic in their work and very dedicated to their owner. The Portuguese Pointer is considered a medium-sized dog.",
+    "Characteristics":"energetic / affectionate / smart",
+    "Height":"20.5-22 inches",
+    "Weight":"35-59 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12195455/Portuguese-Pointer-on-White-01-1-400x267.jpg"
+  },
+  "Portuguese Sheepdog":{
+    "Description":"The Portuguese Sheepdog is exceptionally intelligent and lively. Very devoted to the shepherd and his herd, he can be somewhat wary of strangers and vigilant at night. Today, he is also an excellent companion, sporting and guard dog.",
+    "Characteristics":"intelligent / devoted / lively",
+    "Height":"16.5-21.5 inches",
+    "Weight":"37.5-59 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19232040/Black-Portuguese-Sheepdog-standing-outdoors-in-the-grass-400x267.jpg"
+  },
+  "Portuguese Water Dog":{
+    "Description":"The bright and biddable Portuguese Water Dog was bred to be an all-around fisherman's helper. The robust, medium-sized body is covered by a coat of tight, low-shedding curls. PWDs are eager and athletic companions built for water work.",
+    "Characteristics":"affectionate / adventurous / athletic",
+    "Height":"20-23 inches (male)/17-21 inches (female)",
+    "Weight":"42-60 pounds (male)/35-50 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16135451/Portuguese-Water-Dog-standing-in-profile-outdoors-400x267.jpg"
+  },
+  "Pudelpointer":{
+    "Description":"The Pudelpointer is a calm, self-controlled, versatile gun dog with a distinct hunting instinct and lacks game or gun shyness. In his native country of Germany, he has always ranked high in performance tests and in the field. This breed is enjoyed and valued for its desire and drive.",
+    "Characteristics":"friendly / smart / willing to please",
+    "Height":"22-26 inches",
+    "Weight":"45-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/16151428/Pudelpointer-standing-in-a-field-400x267.jpg"
+  },
+  "Pug":{
+    "Description":"Once the mischievous companion of Chinese emperors, and later the mascot of Holland's royal House of Orange, the small but solid Pug is today adored by his millions of fans around the world. Pugs live to love and to be loved in return. The Pug's motto is the Latin phrase 'multum in parvo' (a lot in a little)'an apt description of this small but muscular breed.",
+    "Characteristics":"charming / loving / mischievous",
+    "Height":"10-13 inches",
+    "Weight":"14-18 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225358/Pug-On-White-01-400x267.jpg"
+  },
+  "Puli":{
+    "Description":"No other breed can be mistaken for the Puli, a compact but powerful herder covered from head to tail with profuse, naturally occurring cords. Bred to work closely with humans, these agile and faithful little dynamos are quick learners. First, there are those dreadlocks, the instantly recognizable feature of the Puli (pronounced \"Poo-lee\", \"Pulik\" is the plural).",
+    "Characteristics":"loyal / smart / home-loving",
+    "Height":"17 inches (male)/16 inches (female)",
+    "Weight":"25-35 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/08105915/Puli-sitting-in-a-field-400x267.jpg"
+  },
+  "Pumi":{
+    "Description":"A compact, nimble-footed herder of Hungarian origin, the Pumi is easily recognized by a corkscrew-curled coat, two-thirds erect ears, and distinctive whimsical expression. The breed is famed for its intelligence, agility, and boldness. The Pumi (POO-mee",
+    "Characteristics":"energetic / lively / ready to work",
+    "Height":"16-18.5 inches (male)/15-17.5 inches (female)",
+    "Weight":"27-29 pounds (male)/22-24 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17152356/Pumi-standing-outdoors-in-the-countryside-400x267.jpg"
+  },
+  "Pyrenean Mastiff":{
+    "Description":"A centuries-old, rare breed from the Pyrenees Mountains in Spain, this livestock guardian protected flocks from wolves, bears and thieves. Today, while it is still an effective guardian, many families have found the joy of owning the gentle and loving, yet independent, Pyrenean Mastiff. The Pyrenean Mastiff is friendly towards humans, calm, noble and very intelligent.",
+    "Characteristics":"gentle / brave / noble",
+    "Height":"Males 30-31 inches/Females 25-30 inches",
+    "Weight":"120-240 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225240/Pyrenean-Mastiff-On-White-01-400x267.jpg"
+  },
+  "Pyrenean Shepherd":{
+    "Description":"Enthusiastic, mischievous, and whip-smart, the Pyrenean Shepherd is an indefatigable herder descended from ancient sheepdogs of the Pyrenees mountains. Tough and sinewy Pyr Sheps come in 'rough-faced' and 'smooth-faced' coat varieties. These tough, lean, and lively herders, famous for their vigorous and free-flowing movement, come in two coat varieties:",
+    "Characteristics":"active / affectionate / enthusiastic",
+    "Height":"15.5-18.5 inches (male rough-faced)/15-18 inches (female rough-faced)/15.5-21 inches (male smooth-faced)/15.5-20.5 inches (female smooth-faced)",
+    "Weight":"15-30 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17160341/Pyrenean-Shepherd-standing-in-profile-in-a-field-400x267.jpg"
+  },
+  "Rafeiro do Alentejo":{
+    "Description":"The Rafeiro do Alentejo is an excellent farm and estate watch dog. He is also a very useful livestock protector, being more vigilant at night and very serious when guarding territory or any other property entrusted to him. He has a calm and confident expression.",
+    "Characteristics":"confident / calm / powerful",
+    "Height":"25-29 inches",
+    "Weight":"77-132 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20180609/Rafeiro-do-Alentejo-standing-outdoors-in-a-field-1.jpg"
+  },
+  "Rat Terrier":{
+    "Description":"An American original, with a breed name said to be coined by Teddy Roosevelt, the Rat Terrier is a compact, tough, smooth-coated exterminator dog. RTs come in two size varieties and are happy-go-lucky, playful, and portable companions. Balanced, compactly built Rat Terriers are tough but elegant-looking.",
+    "Characteristics":"friendly / inquisitive / lovable",
+    "Height":"10-13 inches (miniature)/13-18 inches (standard)",
+    "Weight":"10-25 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225148/Rat-Terrier-On-White-01-400x267.jpg"
+  },
+  "Redbone Coonhound":{
+    "Description":"The streamlined Redbone Coonhound, an American original, is even-tempered, mellow, and kindly at home but a tiger on the trail. Vigorous activities like hunting and swimming between long periods of rest is the rhythm of coonhound life. Redbones are medium-to-large hound dogs whose muscles undulate beneath a sleek and stunning red coat.",
+    "Characteristics":"eager to please / even-tempered / amiable",
+    "Height":"22-27 inches (male)/21-26 inches (female)",
+    "Weight":"45-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20142238/Redbone-Coonhound-400x267.jpg"
+  },
+  "Rhodesian Ridgeback":{
+    "Description":"The Rhodesian Ridgeback is an all-purpose 'Renaissance hound' whose hallmark is the ridge, or stripe of backward-growing hair, on his back. Though the breed was made famous in its native Africa for its skill at tracking and baying, but never, ever killing, †lions, today Ridgebacks are cherished family dogs whose owners must be prepared to deal with their independence and strong prey drive. Beneath the Ridgeback's trademark ridge is a whole lot of hound:",
+    "Characteristics":"dignified / affectionate / even-tempered",
+    "Height":"25-27 inches (male)/24-26 inches (female)",
+    "Weight":"85 pounds (male)/70 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30133241/Rhodesian-Ridgeback-standing-in-profile-outdoors-400x267.jpg"
+  },
+  "Romanian Carpathian Shepherd":{
+    "Description":"The Romanian Carpathian Shepherd dog is a natural guardian, very courageous and loyal, distinguishing itself by its unconditional attachment and devotion to the whole family, or the herd it protects and to its master. The Carpathian is a dignified, proud, calm, and balanced dog. The Romanian Carpathian Shepherds are fierce guardians, brave, intelligent, loyal, and proud dogs that are also very playful, and fully devoted to their family and master - they will listen to all family, but recognize one human to be the ultimate master they will follow.",
+    "Characteristics":"loyal / brave",
+    "Height":"26-29 inches (male)/23 - 26 (female)",
+    "Weight":"70-100 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/01/07140443/Romanian-Carpathian-Shepherd-standing-with-a-shepherd-in-a-field-copy.jpg"
+  },
+  "Romanian Mioritic Shepherd Dog":{
+    "Description":"The Romanian Mioritic Shepherd Dog origins come from near the Carpathian Mountains. The breed is very impressive in size and character. Used for centuries to guard livestock in its homeland of Romania, the Mioritic Sheepdog is a typical Livestock Guarding Dog (LGD).",
+    "Characteristics":"independent / loyal / confident guardian",
+    "Height":"27-29 inches (males)/22.5-28 inches (females)",
+    "Weight":"100-130 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/19173802/Romanian-Mioritic-Shepherd-Dog-laying-in-a-field-in-a-mountainous-landscape-400x267.jpg"
+  },
+  "Rottweiler":{
+    "Description":"The Rottweiler is a robust working breed of great strength descended from the mastiffs of the Roman legions. A gentle playmate and protector within the family circle, the Rottie observes the outside world with a self-assured aloofness. A male Rottweiler will stand anywhere from 24 to 27 muscular inches at the shoulder",
+    "Characteristics":"loyal / loving / confident guardian",
+    "Height":"24-27 inches (male)/22-25 inches (female)",
+    "Weight":"95-135 pounds (male)/80-100 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224942/Rottweiler-On-White-10-400x267.jpg"
+  },
+  "Russell Terrier":{
+    "Description":"Upbeat, lively, inquisitive, and friendly, the jaunty Russell Terrier was developed by England's \"Sporting Parson\" for use in foxhunts. The adorable Russell Terrier looks like a plush toy come to life but is an eager, tireless working terrier. These jaunty little fellows pack lots of personality into a compact, rectangular body standing 10 to 12 inches at the shoulder.",
+    "Characteristics":"alert / inquisitive / lively",
+    "Height":"10-12 inches",
+    "Weight":"9-15 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224927/Russell-Terrier-On-White-03-400x267.jpg"
+  },
+  "Russian Toy":{
+    "Description":"The Russian Toy is a small, elegant, lively dog with long legs, fine bones and lean muscles. They are active and cheerful, possessing keen intelligence and a desire to please. This breed loves to snuggle and be close to their human companions, although sometimes slightly aloof to strangers.",
+    "Characteristics":"loyal / charming / smart",
+    "Height":"8-11 inches",
+    "Weight":"Up to 6.5 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03115824/Russian-Toy.4-400x267.jpg"
+  },
+  "Russian Tsvetnaya Bolonka":{
+    "Description":"Russkaya Tsvetnaya Bolonka translates to \"Russian Colored Lapdog.\" Bolonki were originally bred to be the ultimate house pet for apartment living. Sweet, loving, intelligent, and willing to please, he is friendly to all and shows no sign of aggression. The Russian Tsvetnaya Bolonka, or Bolonka for short, is a member of the Bichon family that was almost extinct until after the Cold War.",
+    "Characteristics":"playful / charming / inquisitive",
+    "Height":"11 inches",
+    "Weight":"6 - 9 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19145436/Russian-Tsvetnaya-Bolonka-standing-on-a-white-background-400x267.jpg"
+  },
+  "Saint Bernard":{
+    "Description":"The Saint Bernard does not rank very high in AKC registrations, but the genial giant of the Swiss Alps is nonetheless among the world's most famous and beloved breeds. Saints are famously watchful and patient 'nanny dogs' for children. Not ranked particularly high in AKC registrations, this genial giant is nonetheless among the world's most famous and beloved breeds.",
+    "Characteristics":"playful / charming / inquisitive",
+    "Height":"28-30 inches (males)/26-28 inches (female)",
+    "Weight":"140-180 pounds (male)/120-140 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224843/Saint-Bernard-On-White-01-400x267.jpg"
+  },
+  "Saluki":{
+    "Description":"Among the world's oldest breeds, the slim but rugged Saluki was the hunting hound of kings for thousands of years. Salukis are swift and agile sprinters who love a good chase. They make gentle, dignified, and independent but loyal pets.",
+    "Characteristics":"dignified / gentle / independent-minded",
+    "Height":"23-28 inches (male)",
+    "Weight":"40-65 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14185322/AKC-121716-139-400x267.jpg"
+  },
+  "Samoyed":{
+    "Description":"The Samoyed is a substantial but graceful dog standing anywhere from 19 to a bit over 23 inches at the shoulder. Powerful, tireless, with a thick all-white coat impervious to cold, Sammies are perfectly beautiful but highly functional. Even their most delightful feature, a perpetual smile, has a practical function:",
+    "Characteristics":"friendly / gentle / adaptable",
+    "Height":"21-23.5 inches (male)/19-21 inches (female)",
+    "Weight":"45-65 pounds (male)/35-50 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20122208/Samoyed-standing-in-the-forest-400x267.jpg"
+  },
+  "Schapendoes":{
+    "Description":"This shaggy sheepdog of Holland is also known as the Dutch Sheep Dog. Schapendoes are cheerful, funny, clever and brave and are very good family pets. They also have a strong desire to please.",
+    "Characteristics":"friendly / watchful / lively",
+    "Height":"16-20 inches",
+    "Weight":"26-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224720/Schapendoes-On-White-01-400x267.jpg"
+  },
+  "Schipperke":{
+    "Description":"The Schipperke, Belgium's \"little captain,\" is the traditional barge dog of the Low Countries. Curious, lively, and intense but mischievous, this little black dog is a robust, long-lived companion for whom there is never a dull moment. Standing no higher than 13 inches, Schipperkes are small dogs built for hard work.",
+    "Characteristics":"alert / curious / confident",
+    "Height":"11-13 inches (male)/10-12 inches (female)",
+    "Weight":"10-16 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224700/Schipperke-On-White-01-400x267.jpg"
+  },
+  "Scottish Deerhound":{
+    "Description":"The crisply coated Scottish Deerhound, 'Royal Dog of Scotland,' is a majestically large coursing hound struck from the ancient Greyhound template. Among the tallest of dog breeds, the Deerhound was bred to stalk the giant wild red deer. Stand back:",
+    "Characteristics":"dignified / gentle / polite",
+    "Height":"30-32 inches (male)/28 inches & up (female)",
+    "Weight":"85-110 pounds (male)/75-95 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27183249/Scottish-Deerhound-standing-in-the-woods-400x267.jpg"
+  },
+  "Scottish Terrier":{
+    "Description":"A solidly compact dog of vivid personality, the Scottish Terrier is an independent, confident companion of high spirits. Scotties have a dignified, almost-human character. Their terrier persistence has earned the breed the nickname 'the Diehard.\n\nThe well-known Scottie silhouette is that of a short-legged but substantial terrier with distinctive furnishings at the beard, legs, and lower body.",
+    "Characteristics":"independent / confident / spirited",
+    "Height":"10 inches",
+    "Weight":"19-22 pounds (male)/18-21 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224538/Scottish-Terrier-On-White-02-400x267.jpg"
+  },
+  "Sealyham Terrier":{
+    "Description":"The Sealyham Terrier is brave and spirited, but not as spiky as smaller terriers. These sturdy, outgoing companions are recognized by their 'fall,' the mass of hair covering the forehead. Sealy fans enjoy their dog's sly sense of humor.",
+    "Characteristics":"alert / outgoing / sense of humor",
+    "Height":"10.5 inches",
+    "Weight":"23-24 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29172407/Sealyham-Terrier-standing-in-three-quarter-view.1-400x267.jpg"
+  },
+  "Segugio Italiano":{
+    "Description":"The Segugio Italiano is a loyal and personable breed of great stamina, great heart, and impeccable intelligence. Fleet of foot and possessed of elegance, the Segugio Italiano is a tenacious hunter with superlative stamina. Its willing nature, intelligence, gentle and docile demeanor make it ideal as a companion, and well suited for people of all ages.",
+    "Characteristics":"intelligent / friendly / eager to please",
+    "Height":"19.5 - 24.5 inches males/19 - 24 inches females",
+    "Weight":"39-62 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/08/07114637/Segugio-Italiano-slideshow-08-400x267.jpg"
+  },
+  "Shetland Sheepdog":{
+    "Description":"The Shetland Sheepdog, also known as the Sheltie, is an extremely intelligent, quick, and obedient herder from Scotland's remote and rugged Shetland Islands. Shelties bear a strong family resemblance to their bigger cousin, the Collie. The Shetland Sheepdog is a small, active, and agile herding dog standing between 13 and 16 inches at the shoulder.",
+    "Characteristics":"playful / energetic / bright",
+    "Height":"13-16 inches",
+    "Weight":"15-25 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224438/Shetland-Sheepdog-On-White-01-400x267.jpg"
+  },
+  "Shiba Inu":{
+    "Description":"An ancient Japanese breed, the Shiba Inu is a little but well-muscled dog once employed as a hunter. Today, the spirited, good-natured Shiba is the most popular companion dog in Japan. The adaptable Shiba is at home in town or country.",
+    "Characteristics":"alert / active / attentive",
+    "Height":"14.5-16.5 inches (male)/13.5-15.5 inches (female)",
+    "Weight":"23 pounds (male)/17 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26114711/Shiba-Inu-standing-in-profile-outdoors-400x267.jpg"
+  },
+  "Shih Tzu":{
+    "Description":"That face! Those big dark eyes looking up at you with that sweet expression! It's no surprise that Shih Tzu owners have been so delighted with this little 'Lion Dog' for a thousand years. Where Shih Tzu go, giggles and mischief follow. Shi Tsu (pronounced in the West 'sheed-zoo' or 'sheet-su'",
+    "Characteristics":"playful / affectionate / outgoing",
+    "Height":"9-10.5 inches",
+    "Weight":"9-16 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224329/Shih-Tzu-On-White-01-400x267.jpg"
+  },
+  "Shikoku":{
+    "Description":"The Shikoku is a dog of marked endurance, keen in sense with a naive feeling, energetic and highly alert. He is an enthusiastic hunter and docile towards his master. The original Shikoku, or Kochi-ken, existed in the mountain ranges of Kochi Prefecture on the island of Shikoku.",
+    "Characteristics":"alert / energetic / enthusiastic",
+    "Height":"17-22 inches",
+    "Weight":"35-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06181326/Shikoku-standing-outdoors-400x267.jpg"
+  },
+  "Siberian Husky":{
+    "Description":"Siberian Husky, a thickly coated, compact sled dog of medium size and great endurance, was developed to work in packs, pulling light loads at moderate speeds over vast frozen expanses. Sibes are friendly, fastidious, and dignified. The graceful, medium-sized Siberian Husky's almond-shaped eyes can be either brown or blue'and sometimes one of each'and convey a keen but amiable and even mischievous expression.",
+    "Characteristics":"loyal / outgoing / mischevious",
+    "Height":"21-23.5 inches (male)/20-22 inches (female)",
+    "Weight":"45-60 pounds (male)/35-50 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26155623/Siberian-Husky-standing-outdoors-in-the-winter-400x267.jpg"
+  },
+  "Silky Terrier":{
+    "Description":"A charming member of the AKC Toy Group, the compact, glossy-coated Silky Terrier is nonetheless a true terrier of energetic high spirits. The Silky, a native of Sydney, Australia, is larger than his close cousin, the Yorkshire Terrier. Small but not fragile, feisty but not yappy, pretty but not sculpted, Silkys are 10-inch-tall dynamos animated by curiosity and high spirits.",
+    "Characteristics":"friendly / quick / keenly alert",
+    "Height":"9-10 inches",
+    "Weight":"around 10 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224133/Silky-Terrier-On-White-01-400x267.jpg"
+  },
+  "Skye Terrier":{
+    "Description":"The heavenly breed with the heart of a lion,' the long, low, and level Skye Terrier is among the AKC's most distinctive-looking breeds. This elegant but sturdy aristocrat was bred as an exterminator on Scotland's remote Isle of Skye. Long, low, and level, this unique earthdog is among the AKC's most distinctive-looking breeds.",
+    "Characteristics":"courageous / good-tempered / canny",
+    "Height":"10 inches (male)/9.5 inches (female)",
+    "Weight":"35-45 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26164828/Skye-Terrier-standing-outdoors-in-profile-400x267.jpg"
+  },
+  "Sloughi":{
+    "Description":"The ancient Sloughi, nicknamed the 'Arabian Greyhound,' is a lean, swift coursing hound who hunted a variety of game in North African deserts. A classic sighthound, the Sloughi is regally aloof with strangers and gentle with loved ones. The Sloughi (SLOO-ghee) is a classically constructed sighthound of ancient lineage, originally bred to work on such game as the hare, fox, jackal, gazelle, and wild pigs on the punishing terrain of its homeland.",
+    "Characteristics":"reserved / graceful / noble",
+    "Height":"26-29 inches (male)/24-27 inches (female)",
+    "Weight":"35-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27130217/Sloughi-in-the-desert-400x267.jpg"
+  },
+  "Slovakian Wirehaired Pointer":{
+    "Description":"Slovakian Wirehaired Pointer is a dog of moderate strength, working type, but with nobleness in his lines. The basic color of the coat is called 'grey' and the hair is harsh (hard). He must be fit and able to work on the plain, in the woods and in the water, and especially to work after the shooting, searching and retrieving wounded game.",
+    "Characteristics":"affectionate / friendly ",
+    "Height":"24.5-26.5 in (male)/22.5-26 in (female)",
+    "Weight":"50-65 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/21154900/Slovakian-Wirehaired-Pointer-laying-down-outdoors-400x267.jpg"
+  },
+  "Slovensky Cuvac":{
+    "Description":"The Slovensky Cuvac is boundlessly faithful and courageous and always ready to fight off any intruder, even if they are bears and wolves. In order to distinguish him from wild animals in the night, he is, according to ancient tradition, only bred in white. The Slovensky Cuvac's breed characteristics conform in type with those of a mountain dog of the firm constitution, impressive appearance, and thick white coat.",
+    "Characteristics":"alert / courageous / faithful",
+    "Height":"23-27.5 inches",
+    "Weight":"68-97 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20183605/Slovensky-Cuvac-standing-outdoors-400x267.jpg"
+  },
+  "Slovensky Kopov":{
+    "Description":"This spirited, persistent hunter will follow a scent for hours. The Slovensky Kopov is a hardy, hardworking breed that is also known for its courage and great endurance and was originally developed to hunt wild boar. Also known as the Slovakian Hound, Slovak Hound, or the Slovensky Kopov is a medium-sized scent hound with a relatively light, but solid, build.",
+    "Characteristics":"alert / courageous / determined",
+    "Height":"16-20 inches",
+    "Weight":"33-44 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193539/Slovensky-Kopov-On-White-01-400x267.jpg"
+  },
+  "Small Munsterlander":{
+    "Description":"The Small Munsterlander is a versatile hunting dog and natural retriever with a medium range, solid pointing instinct, and strong desire for the water. It has excellent tracking abilities for all types of work after the shot. These qualities are enhanced by intelligence and trainability.",
+    "Characteristics":"intelligent / devoted / self-confident",
+    "Height":"20.5-21 inches",
+    "Weight":"40-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19190032/Munsterlander.5-400x267.jpg"
+  },
+  "Smooth Fox Terrier":{
+    "Description":"The Smooth Fox Terrier, called the 'gentleman of the terrier world,' is a lively, gregarious terrier with a devil-may-care attitude, originally developed for Britain's traditional foxhunts. They are close relatives to Wire Fox Terriers. Smooths are quite similar to their close relatives, Wire Fox Terriers.",
+    "Characteristics":"independent / friendly / amusing",
+    "Height":"15Ω inches",
+    "Weight":"18 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26234338/Smooth-Fox-Terrier-standing-in-a-field-in-winter-400x267.jpg"
+  },
+  "Soft Coated Wheaten Terrier":{
+    "Description":"The Soft Coated Wheaten Terrier, an exuberant Irish farm dog, is happy, friendly, deeply devoted, and just stubborn enough to remind you he's a terrier. The unique wheaten coat is low-shedding but needs diligent care to avoid matting. The hallmark of these merry extroverts, and what sets them apart from other terriers, is the silky, gently waving coat.",
+    "Characteristics":"friendly / happy / deeply devoted",
+    "Height":"18-19 inches (male)/17-18 inches (female)",
+    "Weight":"35-40 pounds (male)/30-35 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30183331/Soft-Coated-Wheaten-Terrier-sitting-in-a-field-of-wildflowers-400x267.jpg"
+  },
+  "Spanish Mastiff":{
+    "Description":"The Spanish Mastiff is a very intelligent dog, not without beauty, whose expression manifests both these qualities. Rustic, affectionate, kind and noble, he is very determined when facing dangerous animals and in front of strangers, especially when he has the opportunity to defend and protect farms or cattle. In his behaviour, one can see it is a dog sure of himself, determining his strength because he is aware of his enormous power.",
+    "Characteristics":"intelligent / affectionate / kind",
+    "Height":"Minimum 28-35 inches",
+    "Weight":"140-200 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29125304/Spanish-Mastiff-400x267.jpg"
+  },
+  "Spanish Water Dog":{
+    "Description":"The inexhaustible Spanish Water Dog is a dual-purpose breed whose hallmark is a coat of wooly curls. Used as both a herder and waterfowl retriever in his homeland, this rustic charmer is a lively family companion and vigilant watchdog. The unique look of these inexhaustible workers begins with the coat.",
+    "Characteristics":"Upbeat / Playful but also work-oriented / Very Active",
+    "Height":"17.5-19.75 inches (male)/15.75-18 inches (female)",
+    "Weight":"40-49 pounds (male)/31-40 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26223654/Spanish-Water-Dog-400x267.jpg"
+  },
+  "Spinone Italiano":{
+    "Description":"The Spinone Italiano, a densely-coated hunting dog, is sociable, docile, and patient, sometimes stubborn but always endearing. Of ancient Italian lineage, the Spinone is among the field dogs of Continental Europe famed for versatility. The Spinone Italiano (plural:",
+    "Characteristics":"sociable / patient / docile",
+    "Height":"23-27 inches (male)/22-25 inches (female)",
+    "Weight":"75–86 lbs (male)/64–70 pounds(female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223825/Spinone-Italiano-On-White-03-400x267.jpg"
+  },
+  "Stabyhoun":{
+    "Description":"Although occasionally somewhat willful by nature, Stabyhouns are obedient, gentle, and patient dogs, who are deeply fond of their family, wanting to please their owners. He is both a soft-mouthed retriever and a pointer that is particularly useful for hunting ducks and upland birds. He is a fine retriever, and water work is one of his fortes.",
+    "Characteristics":"intelligent / loving / responsive",
+    "Height":"19-21 inches",
+    "Weight":"40-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/31125942/AdobeStock_62619970-400x267.jpg"
+  },
+  "Staffordshire Bull Terrier":{
+    "Description":"From his brawling past, the muscular but agile Staffordshire Bull Terrier retains the traits of courage and tenacity. Happily, good breeding transformed this former gladiator into a mild, playful companion with a special feel for kids. At 14 to 16 inches, Staffies do not stand particularly tall.",
+    "Characteristics":"clever / brave / tenacious",
+    "Height":"14-16 inches",
+    "Weight":"28-38 pounds (male)/24-34 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223759/Staffordshire-Bull-Terrier-On-White-01-400x267.jpg"
+  },
+  "Standard Schnauzer":{
+    "Description":"The bold, bewhiskered Standard Schnauzer is a high-spirited farm dog from Germany. They are the sometimes-willful but ever reliable medium-sized members of the Schnauzer family of breeds. The Standard's sporty look is a canine classic.",
+    "Characteristics":"fearless / smart / spirited",
+    "Height":"18.5-19.5 inches (male)/17.5-18.5 inches (female)",
+    "Weight":"35-50 pounds (male)/30-45 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15162521/Standard-Schnauzer-standing-outdoors-400x267.jpg"
+  },
+  "Sussex Spaniel":{
+    "Description":"Placid, affectionate, even-tempered, true-blue, loyal,\" all are words used to describe the Sussex Spaniel, a slow-but-steady hunter, and congenial housedog. His frowning expression is delightfully at odds with a typically cheerful nature. Looking a bit like a cross between a Cocker Spaniel and a torpedo, Sussex are long, low-built bird dogs of great strength and endurance.",
+    "Characteristics":"friendly / merry / even-tempered",
+    "Height":"13-15 inches",
+    "Weight":"35-45 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223645/Sussex-Spaniel-On-White-01-400x267.jpg"
+  },
+  "Swedish Lapphund":{
+    "Description":"Lively, alert, kind and affectionate. The Lapphund is very receptive, attentive and willing to work. Its abilities as a good herding dog made it very useful in the reindeer trade.",
+    "Characteristics":"intelligent / playful / lively",
+    "Height":"16-20 inches",
+    "Weight":"30-45 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223641/Swedish-Lapphund-On-White-01-400x267.jpg"
+  },
+  "Swedish Vallhund":{
+    "Description":"The long and low Swedish Vallhund, Viking Dog of ancient legend, is a smart and sociable herder of dense coat and boundless energy. These rugged cattle dogs are known for their zest for life, unique vocalizations, and cheerful demeanor. With their thick sable coat, sturdy construction, and overall no-frills look, Vallhunds are a timeless breed, as comfortable in a suburban backyard as they were on the prow of Viking longships 1,200 years ago.",
+    "Characteristics":"friendly / energetic / watchful",
+    "Height":"12.5-13.75 inches (male)/11.5-12.75 inches (female)",
+    "Weight":"20-35 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17140753/Swedish-Vallhund-running-in-the-grass-400x267.jpg"
+  },
+  "Taiwan Dog":{
+    "Description":"The Taiwan Dog is extremely faithful to his master, keen in sense, alert in movement, bold and fearless. He is a medium-sized dog with triangular head, almond shaped eyes, thin pricked ears and a sickle tail. The Taiwan Dog's intuitive nature and connection to its master were most likely honed from generations of collaboratively hunting small game in the mountains.",
+    "Characteristics":"loyal / intelligent / versatile",
+    "Height":"17-20 inches",
+    "Weight":"26-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/19130441/Taiwan-Dog-sitting-in-the-park.jpg"
+  },
+  "Teddy Roosevelt Terrier":{
+    "Description":"The Teddy Roosevelt Terrier is a lively, friendly, affectionate dog with his family but can be somewhat of a one-person dog. With his strong protective nature and well-developed pack instincts, the Teddy Roosevelt Terrier gets along well with children (when raised with them), cats, and other dogs. He is a bold, tenacious hunter with seemingly unlimited energy whose size and endurance makes him an excellent hunter of squirrels and vermin.",
+    "Characteristics":"intelligent / playful / versatile",
+    "Height":"8-14 inches",
+    "Weight":"8-25 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12190133/Teddy-Roosevelt-Terrier-on-White-01-400x267.jpg"
+  },
+  "Thai Ridgeback":{
+    "Description":"The Thai Ridgeback is tough and active, with an excellent jumping ability. He is highly intelligent, has a strong survival instinct, and is a loyal family dog. The Thai Ridgeback is a muscular, medium-sized dog with a stream-lined body that makes him very agile and a natural athlete.",
+    "Characteristics":"independent / loyal / agile",
+    "Height":"20-24 inches",
+    "Weight":"35-75 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22204051/Thai-Ridgeback.4-400x267.jpg"
+  },
+  "Tibetan Mastiff":{
+    "Description":"Watchful, aloof, imposing, and intimidating: The ancient Tibetan Mastiff is the guardian dog supreme. These densely coated giants are mellow and calm around the house, sweetly devoted to family, and aloof and territorial with strangers.",
+    "Characteristics":"reserved / independent / intelligent",
+    "Height":"minimum 26 inches (male)/minimum 24 inches (female)",
+    "Weight":"90-150 pounds (male)/70-120 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28163233/Tibetan-Mastiff-laying-down-outdoors-400x267.jpg"
+  },
+  "Tibetan Spaniel":{
+    "Description":"The frisky and curious Tibetan Spaniel was bred ages ago for sentinel work on the walls of Tibetan monasteries. Known for a flat, silky coat and 'lion's mane' around the neck, the Tibbie forms a tight, worshipful bond with their humans. With a blunt muzzle and big expressive eyes, a 'lion's mane' around the neck, and a plumed tail elegantly curving over the back, they're distinctly Tibetan.",
+    "Characteristics":"playful / bright / self-confident",
+    "Height":"10 inches",
+    "Weight":"9-15 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28170708/Tibetan-Spaniel-laying-down-outdoors-400x267.jpg"
+  },
+  "Tibetan Terrier":{
+    "Description":"The Tibetan Terrier, 'Holy Dog of Tibet,' is an ancient watchdog and companion long associated with Buddhist monasteries. A profusely coated, small-to-medium-sized dog with 'snowshoe' feet, the TT is affectionate, sensitive, and clever. Bearing a passing resemblance to their smaller cousin, the Lhasa Apso, Tibetan Terriers reside at the lower end of medium-sized breeds, standing about 15 inches at the shoulder and weighing between 20 and 24 pounds.",
+    "Characteristics":"loyal / affectionate / sensitive",
+    "Height":"14-17 inches",
+    "Weight":"18-30 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223455/Tibetan-Terrier-On-White-01-400x267.jpg"
+  },
+  "Tornjak":{
+    "Description":"The Tornjak is of steady disposition, friendly, courageous, obedient, intelligent, and full of dignity and self-confidence. Fierce in guarding property entrusted to him, he cannot be bribed and is suspicious of strangers. He is devoted to his master, very calm in his presence and very affectionate towards the people living in his immediate vicinity.",
+    "Characteristics":"intelligent / friendly / courageous",
+    "Height":"23-28 inches",
+    "Weight":"62-110 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/18151235/Tornjak-standing-in-the-woods-400x267.jpg"
+  },
+  "Tosa":{
+    "Description":"The Tosa's temperament is marked by patience, composure, boldness and courage. He is normally a tranquil, quiet, and obedient dog, with a calm but vigilant demeanor. With a stately manner and robust build, they were formerly bred for fighting, but are now used as watchdogs.",
+    "Characteristics":"vigilant / fearless / patient",
+    "Height":"Minimum 21.5-23.5 inches",
+    "Weight":"100-200 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12194713/Tosa-on-White-01-400x267.jpg"
+  },
+  "Toy Fox Terrier":{
+    "Description":"A diminutive satin-coated terrier with an amusing toy-dog personality, the Toy Fox Terrier is, as breed fanciers say, 'truly a toy and a terrier.' They began as barnyard ratters but are today beguiling companions with a big personality. A surefire recipe for fun: Take the lovability of a lapdog.",
+    "Characteristics":"alert / intelligent / friendly",
+    "Height":"8.5-11.5 inches",
+    "Weight":"4 - 9 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02121737/Toy-Fox-Terrier-standing-portrait-400x267.jpg"
+  },
+  "Transylvanian Hound":{
+    "Description":"The Transylvanian Hound is good-natured, courageous, and enduring. At his foundation, he is quiet and even, but also determined and lively. The environmental conditions of the Carpathians made the breed a tough, brave dog.",
+    "Characteristics":"good-natured / courageous / determined",
+    "Height":"22-26 inches",
+    "Weight":"Minimum 55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223400/Transylvanian-Hound-On-White-01-400x267.jpg"
+  },
+  "Treeing Tennessee Brindle":{
+    "Description":"The Treeing Tennessee Brindle is an exceptionally sturdy and healthy breed. They are intelligent, brave, courageous and loyal companions with a strong inbred instinct for hunting. The breed bays during a hunt, which means they cry out to the hunter.",
+    "Characteristics":"alert / intelligent / friendly",
+    "Height":"16-24 inches",
+    "Weight":"30-50 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12205430/Treeing-Tennessee-Brindle-on-White-01-400x267.jpg"
+  },
+  "Treeing Walker Coonhound":{
+    "Description":"A smart, brave, and sensible hunter, the Treeing Walker Coonhound is a genuine American favorite, nicknamed \"The People's Choice.\" Don't let the name fool you' Walkers are runners and are capable of covering a lot of ground in a hurry. Few things can quicken a coon hunter's pulse like the sight of this swift tricolored hound in full stride'the long, muscular legs, the powerful and propulsive hindquarters, and the streamlined frame all working to cover maximum ground with minimum effort. Later, basking in the warmth of a campfire after an honest night's work, this sweet-faced hound will look up and stir your soul with his gentle, pleading expression.",
+    "Characteristics":"smart / brave / courteous",
+    "Height":"22-27 inches (male)/20-25 inches (female)",
+    "Weight":"50-70 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28154358/Treeing-Walker-Coonhound-400x267.jpg"
+  },
+  "Vizsla":{
+    "Description":"The Vizsla is a versatile, red-coated gundog built for long days in the field. For centuries these rugged but elegant athletes have been the pride of Hungarian sportsmen, and their popularity in America increases with each passing year. The Vizsla is easily recognized by his sleek golden-rust coat.",
+    "Characteristics":"energetic / affectionate / gentle",
+    "Height":"22-24 inches (male)/21-23 inches (female)",
+    "Weight":"55-60 pounds (male)/44-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223307/Vizsla-On-White-01-400x267.jpg"
+  },
+  "Volpino Italiano":{
+    "Description":"The Volpino Italiano is a diverse breed. They love to run and do agility, but when done, will jump up on your lap and lay there the rest of the day. Volpini have existed since ancient times and almost became extinct when Italy lost interest in the breed.",
+    "Characteristics":"loyal / energetic / loving",
+    "Height":"10.5-12 inches",
+    "Weight":"10-16 pounds (males)/8-12 pounds (females)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/03/29122034/Volpino-Italiano-standing-in-profile-in-the-grass-400x267.jpg"
+  },
+  "Weimaraner":{
+    "Description":"The Weimaraner, Germany's sleek and swift 'Gray Ghost,' is beloved by hunters and pet owners alike for their friendliness, obedience, and beauty. They enjoy exercise, and plenty of it, along with lots of quality time with their humans. Instantly recognized by a distinctive silvery-gray coat, male Weimaraners stand 25 to 27 inches at the shoulder, and females 23 to 25 inches.",
+    "Characteristics":"friendly / fearless / obedient",
+    "Height":"25-27 inches (male)/23-25 inches (female)",
+    "Weight":"70-90 pounds (male)/55-75 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17155658/Weimaraner-running-into-water-400x267.jpg"
+  },
+  "Welsh Springer Spaniel":{
+    "Description":"The Welsh Springer Spaniel is a vigorous, medium-sized bird dog of happy disposition, known for versatility in the field, companionability at home, and dashing good looks anywhere. The Welshie is among Britain's oldest sporting breeds. Standing between 17 and 19 inches at the shoulder, Welshies are described by their fans as being of 'handy size':",
+    "Characteristics":"reserved / happy / upbeat",
+    "Height":"18-19 inches (male)/17-18 inches (female)",
+    "Weight":"40-55 pounds (male)/35-50 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30125529/Welsh-Springer-Spaniel-head-portrait-outdoors-400x267.jpg"
+  },
+  "Welsh Terrier":{
+    "Description":"The Welsh Terrier is as alert and spirited as any self-respecting terrier, but a bit calmer than most''game, not quarrelsome,' as breed fanciers say. The Welshman was bred to do battle with badgers, otters, and other dangerous opponents. Sturdy, compact, and rugged, with a tight-fitting black-and-tan coat and a rectangular head featuring folded ears and a jaunty beard, Welsh are constructed along the classic lines of Britain's long-legged terriers.",
+    "Characteristics":"intelligent / friendly / spirited",
+    "Height":"15 inches (male)",
+    "Weight":"20 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30132230/Welsh-Terrier-standing-stacked-in-the-grass-400x267.jpg"
+  },
+  "West Highland White Terrier":{
+    "Description":"Smart, confident, and always entertaining at play, the adorable West Highland White Terrier (Westie, for short) has charmed owners for over 300 years. This diminutive but sturdy earthdog is among the most popular of the small terriers. Standing 10 to 11 inches at the shoulder, with dark piercing eyes, compact body, and a carrot-shaped tail wagging with delight, the Westie's looks are irresistible.",
+    "Characteristics":"loyal / happy / entertaining",
+    "Height":"11 inches (male)/10 inches (female)",
+    "Weight":"15-20 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30142244/West-Highland-White-Terrier-laying-down-in-the-grass-400x267.jpg"
+  },
+  "Wetterhoun":{
+    "Description":"The Wetterhoun, although originally bred for hunting otters, now make excellent companions, watchdogs, and can excel in a variety of sports due to their perseverant nature. The Wetterhoun is almost never seen apart from its owner they enjoy their company as much as the owner enjoys theirs.",
+    "Characteristics":"loyal / intelligent / good-natured",
+    "Height":"23 inches (male)/21.5 inches (female)",
+    "Weight":"50-75 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/01/29131052/Wetterhoun-black-400x267.jpg"
+  },
+  "Whippet":{
+    "Description":"The sleek, sweet-faced Whippet, the 'Poor Man's Racehorse,' is lightning quick. He is an amiable, dignified, and gentle soul, but give him something to chase and he's all business. The name Whippet is synonymous with streamlined grace.",
+    "Characteristics":"playful / affectionate / calm",
+    "Height":"19-22 inches (male)/18-21 inches (female)",
+    "Weight":"25-40 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12223025/Whippet-On-White-01-400x267.jpg"
+  },
+  "Wire Fox Terrier":{
+    "Description":"The Wire Fox Terrier breed standard says they should be 'on the tip-toe of expectation at the slightest provocation.' Once a mainstay of traditional British foxhunts, today's Wire is a handsome and amusing companion and master show dog. The Wire Fox Terrier, 16 to 18 pounds of coiled energy is a sturdy, symmetrical, short-backed hunter with fire and intelligence shining in its dark, round eyes. The predominantly white coat is rough and wiry",
+    "Characteristics":"alert / confident / gregarious",
+    "Height":"15 inches",
+    "Weight":"18 pounds (male)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02163205/Wire-Fox-Terrier.1-400x267.jpg"
+  },
+  "Wirehaired Pointing Griffon":{
+    "Description":"The hardworking Wirehaired Pointing Griffon, renowned as the 'supreme gundog,' is known for the harsh, low-shedding coat the breed is named for. Outgoing, eager, and quick-witted, Griffs are incomparable in the field and loving at home. Griffs are medium-sized, all-purpose gundogs standing no higher than 24 inches at the shoulder.",
+    "Characteristics":"friendly / devoted / trainable",
+    "Height":"22-24 inches (male)/20-22 inches (female)",
+    "Weight":"50-70 pounds (male)/35-50 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/17163651/Wirehaired-Pointing-Griffon-laying-in-a-field-400x267.jpg"
+  },
+  "Wirehaired Vizsla":{
+    "Description":"The Wirehaired Vizsla is an exuberant hunter on land or lake, whose dense, wiry coat distinguishes him from his close cousin, the Vizsla. Calm and gentle around the house, these upbeat Hungarians like running, swimming, and upbeat play. WVs are close relatives of Vizslas but a distinctly separate breed.",
+    "Characteristics":"loyal / gentle / trainable",
+    "Height":"23-25 inches (male)/21.5-23 inches (female)",
+    "Weight":"55-65 pounds (male)/45-55 pounds (female)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/31171727/Wirehaired-Vizsla-wading-into-a-lake-400x267.jpg"
+  },
+  "Working Kelpie":{
+    "Description":"The Working Kelpie is extremely alert, eager and highly intelligent. He possesses an open, friendly, active but placid disposition with a good balance between keenness to work and ability to relax. With an almost inexhaustible energy, the Working Kelpie has a marked loyalty and devotion to work and a strongly-inherited natural instinct and aptitude in working sheep and other livestock, both in open country and in the yards.",
+    "Characteristics":"alert / intelligent / eager",
+    "Height":"19-25 inches",
+    "Weight":"28-60 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/15135603/Working-Kelpie.2-400x267.jpg"
+  },
+  "Xoloitzcuintli":{
+    "Description":"The 3,000-year-old Xoloitzcuintli (pronounced \"show-low-eats-QUEENT-lee\"), the ancient Aztec dog of the gods, is today a loving companion and vigilant watchdog. The alert and loyal Xolo comes in three sizes, and in either hairless or coated varieties. The Xoloitzcuintli (show-low-eats-queen-tlee) comes in three sizes (toy, miniature, and standard), and two varieties (hairless and coated).",
+    "Characteristics":"alert / loyal / calm",
+    "Height":"10-14 inches (toy)/14-18 inches (miniature)/18-23 inches (standard)",
+    "Weight":"10-15 pounds (toy)/15-30 pounds (miniature)/30-55 pounds (standard)",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12222734/Xoloitzcuintli-On-White-01-400x267.jpg"
+  },
+  "Yakutian Laika":{
+    "Description":"Yakutian Laikas are used for herding, pulling sleds and hunting. They were developed in ancient times for natives of Yakutia as indispensable assistants. This versatile dog will be happy by your side or participating in agility, coursing ability, herding or sledding.",
+    "Characteristics":"intelligent / active / affectionate",
+    "Height":"21-23 inches",
+    "Weight":"40-55 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/21194342/Yakutian-Laika1-400x267.jpg"
+  },
+  "Yorkshire Terrier":{
+    "Description":"Beneath the dainty, glossy, floor-length coat of a Yorkshire Terrier beats the heart of a feisty, old-time terrier. Yorkies earned their living as ratters in mines and mills long before they became the beribboned lapdogs of Victorian ladies. The Yorkshire Terrier is a compact, toy-size terrier of no more than seven pounds whose crowning glory is a floor-length, silky coat of steel blue and a rich golden tan.",
+    "Characteristics":"affectionate / sprightly / tomboyish",
+    "Height":"7-8 inches",
+    "Weight":"7 pounds",
+    "Image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/01125312/Yorkshire-Terrier-standing-outdoors-on-a-sunny-day-400x267.jpg"
+  },
+  "":{
+    "Description":"",
+    "Characteristics":"",
+    "Height":"",
+    "Weight":"",
+    "Image":""
+  }
+}
