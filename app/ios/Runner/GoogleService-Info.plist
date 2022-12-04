@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1030288314545-6p5tv3d4gb2j94pis4lg27hva3sgfl4l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1030288314545-6p5tv3d4gb2j94pis4lg27hva3sgfl4l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1030288314545-fgmdnnnde18d0djsrpus6bbjh08duo5u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR2n-tpWAnDyDK5jMSrhFtEVln2BHVOcI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1030288314545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.capstone.app</string>
+	<key>PROJECT_ID</key>
+	<string>barkbook-2022</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barkbook-2022.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1030288314545:ios:5f23364f34287427cc9290</string>
+</dict>
+</plist>

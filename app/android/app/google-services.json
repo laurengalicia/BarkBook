@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1030288314545",
+    "project_id": "barkbook-2022",
+    "storage_bucket": "barkbook-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030288314545:android:f47968956eec7db5cc9290",
+        "android_client_info": {
+          "package_name": "com.capstone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030288314545-8ubbor1jnct6gdeof5h9l048pudfd5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7LpykZ18HWX8BvZA3E4why7Egt0Dc8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030288314545-8ubbor1jnct6gdeof5h9l048pudfd5cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030288314545-jl7o9nk4j2omdrj2b0b2cvqe82012l6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barkbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030288314545:android:79061a7f9952ae25cc9290",
+        "android_client_info": {
+          "package_name": "com.capstone.barkbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030288314545-fgmdnnnde18d0djsrpus6bbjh08duo5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.barkbook",
+            "certificate_hash": "5f50cb6d1383a3670eb9c1cd9c2b6efc1d09527d"
+          }
+        },
+        {
+          "client_id": "1030288314545-8ubbor1jnct6gdeof5h9l048pudfd5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7LpykZ18HWX8BvZA3E4why7Egt0Dc8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030288314545-8ubbor1jnct6gdeof5h9l048pudfd5cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030288314545-jl7o9nk4j2omdrj2b0b2cvqe82012l6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barkbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

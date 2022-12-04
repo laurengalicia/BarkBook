@@ -1,0 +1,45 @@
+name: app
+description: A social media app for dogs.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.1.3
+  firebase_core: ^2.3.0
+  google_fonts: ^3.0.1
+  http: ^0.13.5
+  convert: ^3.1.1
+  cloud_firestore: ^4.1.0
+  substring_highlight: ^1.0.33
+  dotted_border: ^2.0.0+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/logo/full.png
+    - assets/shapes/pawprint.png
+    - assets/shapes/dog.png
+    - assets/shapes/dog-head.png
+    - assets/shapes/dog-house.png
+    - assets/SocialLogos/GoogleLogo.png
+    - assets/SocialLogos/FacebookLogo.png
+    - assets/map/signal.json
+    - assets/map/data.json
+    - assets/map/ding.mp3
+    - assets/map/bark.mp3
